@@ -10,7 +10,6 @@
 name: Updates CI
 on:
   schedule:
-    # At 03:00
     - cron: "0 3 * * *"
   repository_dispatch:
     types: [updates]
