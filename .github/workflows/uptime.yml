@@ -10,6 +10,7 @@
 name: Uptime CI
 on:
   schedule:
+    # every 5min
     - cron: "*/5 * * * *"
   repository_dispatch:
     types: [uptime]

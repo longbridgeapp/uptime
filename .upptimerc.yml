@@ -20,29 +20,88 @@ sites:
     expectedStatusCodes:
       - 302
       - 301
+    assignees:
+      - ihavecoke
+  - name: Longbridge Web - News (longbridgeapp.com/news)
+    url: https://longportapp.com/news
+    headers:
+      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    assignees:
+      - ihavecoke
+    expectedStatusCodes:
+      - 302
+      - 301
   - name: LongPort Web (longportapp.com)
     url: https://longportapp.com
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     expectedStatusCodes:
       - 200
+    assignees:
+      - ihavecoke
   - name: LongPort Web CN (longportapp.cn)
     url: https://longportapp.cn
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     expectedStatusCodes:
       - 200
+    assignees:
+      - ihavecoke
   - name: 小程序 - 个股详情页面 (via longbridgeapp.com)
     url: https://longbridgeapp.com/quote/00700.HK?source_app=longbridge
     headers:
       - "User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; MI 6 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/043807 Mobile Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN miniProgram"
     expectedStatusCodes:
       - 200
+    assignees:
+      - ihavecoke
   - name: Longbridge Web - Download
     url: https://longbridgeapp.com/download
     expectedStatusCodes:
       - 200
+    assignees:
+      - ihavecoke
   - name: LongPort Web - Download
     url: https://longportapp.com/download
     expectedStatusCodes:
       - 200
+
+  # LongPort Web - Pages
+  - name: LongPort Web - 公告 - 列表
+    url: https://longbridgeapp.com/announcements
+  - name: LongPort Web - 资讯列表
+    url: https://longportapp.com/news
+  - name: LongPort Web - 资讯 - 长桥日报
+    url: https://longportapp.com/news/node/daily
+  - name: LongPort Web - 资讯 - 动态新闻
+    url: https://longportapp.com/news/node/dynamic
+  - name: LongPort Web - 资讯 - 海豚投研
+    url: https://longbridgeapp.com/news/dolphin
+  - name: LongPort Web - 资讯 - 长桥资讯
+    url: https://longbridgeapp.com/news/information
+  - name: LongPort Web - 资讯阅读页面
+    url: https://longportapp.com/news/75979678
+  - name: LongPort Web - 个人 Profile
+    url: https://longbridgeapp.com/profiles/6539443
+  - name: LongPort Web - 个人主页 - 原创列表
+    url: https://longbridgeapp.com/profiles/6539443
+  - name: LongPort Web - 个人主页 - 关注者列表
+    url: https://longbridgeapp.com/profiles/6539443/followers
+  - name: LongPort Web - 个人主页 - 关注列表
+    url: https://longbridgeapp.com/profiles/6539443/followers
+  - name: LongPort Web - 个人主页 - 股票视图
+    url: https://longbridgeapp.com/profiles/6539443/stocks-view
+  - name: LongPort Web - Hashtag 话题 - 详情列表
+    url: https://longbridgeapp.com/hash/310330
+  - name: LongPort Web - 话题 - 详情热门列表
+    url: https://longbridgeapp.com/hash/310330/hot
+
+  # LongPort Sitemap
+  - name: LongPort Sitemap - News
+    url: https://longportapp.com/sitemap/news.html
+  - name: LongPort Sitemap - Topics
+    url: https://longportapp.com/sitemap/topics.html
+  - name: LongPort Sitemap - Stocks
+    url: https://longportapp.com/sitemap/quote.html
+  - name: LongPort Sitemap - Lives
+    url: https://longportapp.com/sitemap/lives.html
