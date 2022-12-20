@@ -68,7 +68,7 @@ sites:
 
   # LongPort Web - Pages
   - name: LongPort Web - 公告 - 列表
-    url: https://longbridgeapp.com/announcements
+    url: https://longportapp.com/announcements
   - name: LongPort Web - 资讯列表
     url: https://longportapp.com/news
   - name: LongPort Web - 资讯 - 长桥日报
@@ -76,25 +76,25 @@ sites:
   - name: LongPort Web - 资讯 - 动态新闻
     url: https://longportapp.com/news/node/dynamic
   - name: LongPort Web - 资讯 - 海豚投研
-    url: https://longbridgeapp.com/news/dolphin
+    url: https://longportapp.com/news/dolphin
   - name: LongPort Web - 资讯 - 长桥资讯
-    url: https://longbridgeapp.com/news/information
+    url: https://longportapp.com/news/information
   - name: LongPort Web - 资讯阅读页面
     url: https://longportapp.com/news/75979678
   - name: LongPort Web - 个人 Profile
-    url: https://longbridgeapp.com/profiles/6539443
+    url: https://longportapp.com/profiles/6539443
   - name: LongPort Web - 个人主页 - 原创列表
-    url: https://longbridgeapp.com/profiles/6539443
+    url: https://longportapp.com/profiles/6539443
   - name: LongPort Web - 个人主页 - 关注者列表
-    url: https://longbridgeapp.com/profiles/6539443/followers
+    url: https://longportapp.com/profiles/6539443/followers
   - name: LongPort Web - 个人主页 - 关注列表
-    url: https://longbridgeapp.com/profiles/6539443/followers
+    url: https://longportapp.com/profiles/6539443/followers
   - name: LongPort Web - 个人主页 - 股票视图
-    url: https://longbridgeapp.com/profiles/6539443/stocks-view
+    url: https://longportapp.com/profiles/6539443/stocks-view
   - name: LongPort Web - Hashtag 话题 - 详情列表
-    url: https://longbridgeapp.com/hash/310330
+    url: https://longportapp.com/hash/310330
   - name: LongPort Web - 话题 - 详情热门列表
-    url: https://longbridgeapp.com/hash/310330/hot
+    url: https://longportapp.com/hash/310330/hot
 
   # LongPort Sitemap
   - name: LongPort Sitemap - News
@@ -109,5 +109,9 @@ sites:
   # Activity 活动页面
   - name: Activity - 2022NewAct (CN)
     url: https://activity.lbkrs.com/pipeline/2022NewAct/index.html
+    assignees:
+      - dearest
   - name: Activity - 2022NewAct (HK)
     url: https://activity.longbridgehk.com/pipeline/2022NewAct/index.html
+    assignees:
+      - dearest
