@@ -105,3 +105,9 @@ sites:
     url: https://longportapp.com/sitemap/quote.html
   - name: LongPort Sitemap - Lives
     url: https://longportapp.com/sitemap/lives.html
+
+  # Activity 活动页面
+  - name: Activity - 2022NewAct (CN)
+    url: https://activity.lbkrs.com/pipeline/2022NewAct/index.html
+  - name: Activity - 2022NewAct (HK)
+    url: https://activity.longbridgehk.com/pipeline/2022NewAct/index.html
