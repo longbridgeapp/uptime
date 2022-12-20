@@ -65,36 +65,66 @@ sites:
     url: https://longportapp.com/download
     expectedStatusCodes:
       - 200
+    assignees:
+      - hold-baby
 
   # LongPort Web - Pages
   - name: LongPort Web - 公告 - 列表
     url: https://longportapp.com/announcements
+    assignees:
+      - hold-baby
   - name: LongPort Web - 资讯列表
     url: https://longportapp.com/news
+    assignees:
+      - hold-baby
   - name: LongPort Web - 资讯 - 长桥日报
     url: https://longportapp.com/news/node/daily
+    assignees:
+      - hold-baby
   - name: LongPort Web - 资讯 - 动态新闻
     url: https://longportapp.com/news/node/dynamic
+    assignees:
+      - hold-baby
   - name: LongPort Web - 资讯 - 海豚投研
     url: https://longportapp.com/news/dolphin
+    assignees:
+      - hold-baby
   - name: LongPort Web - 资讯 - 长桥资讯
     url: https://longportapp.com/news/information
+    assignees:
+      - hold-baby
   - name: LongPort Web - 资讯阅读页面
     url: https://longportapp.com/news/75979678
+    assignees:
+      - hold-baby
   - name: LongPort Web - 个人 Profile
     url: https://longportapp.com/profiles/6539443
+    assignees:
+      - hold-baby
   - name: LongPort Web - 个人主页 - 原创列表
     url: https://longportapp.com/profiles/6539443
+    assignees:
+      - hold-baby
   - name: LongPort Web - 个人主页 - 关注者列表
     url: https://longportapp.com/profiles/6539443/followers
+    assignees:
+      - hold-baby
   - name: LongPort Web - 个人主页 - 关注列表
     url: https://longportapp.com/profiles/6539443/followers
+    assignees:
+      - hold-baby
   - name: LongPort Web - 个人主页 - 股票视图
     url: https://longportapp.com/profiles/6539443/stocks-view
+    assignees:
+      - hold-baby
   - name: LongPort Web - Hashtag 话题 - 详情列表
     url: https://longportapp.com/hash/310330
+    assignees:
+      - hold-baby
   - name: LongPort Web - 话题 - 详情热门列表
     url: https://longportapp.com/hash/310330/hot
+    assignees:
+      - hold-baby
 
   # LongPort Sitemap
   - name: LongPort Sitemap - News
