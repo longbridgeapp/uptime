@@ -1,6 +1,7 @@
 owner: longbridgeapp
 repo: upptime
 status-website:
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Longbridge Upptime
   introTitle: "Longbridge **Upptime**"
