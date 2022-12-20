@@ -1,18 +1,17 @@
 owner: longbridgeapp
-repo: upptime
+repo: uptime
 status-website:
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Longbridge Upptime
-  introTitle: "Longbridge **Upptime**"
+  logoUrl: https://raw.githubusercontent.com/longbridgeapp/uptime/master/assets/upptime-icon.svg
+  name: Longbridge Uptime
+  introTitle: "Longbridge **Uptime**"
   introMessage: This is uptime monitor for Longbridge.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-assignees:
-  - huacnlee
+
 sites:
   - name: Longbridge Web (longbridgeapp.com)
     url: https://longbridgeapp.com
