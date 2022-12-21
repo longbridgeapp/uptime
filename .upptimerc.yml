@@ -140,16 +140,46 @@ sites:
     url: https://longportapp.com/hash/310330/hot
     assignees:
       - hold-baby
+  - name: LongPort Web - Login
+    url: https://longbridgeapp.com/login
+  - name: LongPort Web - Forget Password
+    url: https://longportapp.com/password/reset
+  - name: LongPort Web - 媒体报道
+    url: https://longportapp.com/report
+  - name: LongPort Web - 企业员工认证
+    url: https://longbridgeapp.com/company-verify
+  - name: LongPort Web - Jobs
+    url: https://longbridgeapp.com/jobs?city=jobs-sg
+  - name: LongPort Web - Jobs - Detail
+    url: https://longbridgeapp.com/jobs/45tnnqw?city=jobs-sg
+  - name: LongPort Web - 股单介绍
+    url: https://longbridgeapp.com/sharelist/126690
+
+  # LongPort Feed API
+  - name: LongPort Feed - News
+    url: https://longbridgeapp.com/news/feed
+  - name: LongPort Feed - Live
+    url: https://longbridgeapp.com/news/live/feed
+  - name: LongPort Feed - Live
+    url: https://longbridgeapp.com/news/live/feed
+  - name: LongPort Feed - Topic
+    url: https://longbridgeapp.com/topics/feed
+  - name: LongPort Feed - News of BABA.US
+    url: https://longbridgeapp.com/quote/BABA.US/news/feed
 
   # LongPort Sitemap
-  - name: LongPort Sitemap - News
+  - name: LongPort Sitemap - News (Page)
     url: https://longportapp.com/sitemap/news.html
-  - name: LongPort Sitemap - Topics
+  - name: LongPort Sitemap - News (XML)
+    url: https://longportapp.com/news/sitemap
+  - name: LongPort Sitemap - Topic (Page)
     url: https://longportapp.com/sitemap/topics.html
-  - name: LongPort Sitemap - Stocks
+  - name: LongPort Sitemap - Stock (Page)
     url: https://longportapp.com/sitemap/quote.html
-  - name: LongPort Sitemap - Lives
+  - name: LongPort Sitemap - Live (Page)
     url: https://longportapp.com/sitemap/lives.html
+  - name: LongPort Sitemap - Live (XML)
+    url: https://longbridgeapp.com/news/live/sitemap
 
   # Activity 活动页面
   - name: Activity - 2022NewAct (CN)
