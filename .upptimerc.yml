@@ -80,6 +80,10 @@ sites:
     url: https://activity.lbkrs.com/m/download
     expectedStatusCodes:
       - 302
+  - name: H5 - Portal App Download
+    url: https://m.lbkrs.com/app/download
+    expectedStatusCodes:
+      - 302
 
   # LongPort Web - Pages
   - name: LongPort Web - 公告 - 列表
@@ -204,14 +208,22 @@ sites:
     url: https://m.lbkrs.com/news/post/76049490/dr-pdf
   - name: H5 - 社区长文
     url: https://m.lbkrs.com/social/1888673
-  - name: H5 -
-    url: https://m.lbkrs.com/news/activity/121783238
   - name: H5 - 个股季报
     url: https://activity.lbkrs.com/zh-CN/lightning/financial-report?counterId=ST%2FUS%2FBABA&need_login=0&lblang=zh-CN&lbtheme=dark&lbapp=1
   - name: H5 - 产业链
     url: https://app.lbkrs.com/community/industrial-chains/1483?share=true
   - name: H5 - Who's LEO
     url: https://longbridgeapp.com/leo
+  - name: H5 - 获取服务端时间
+    url: https://m.lbkrs.com/api/_ping
+  - name: H5 - 超链接白名单跳转 (Block)
+    url: https://m.lbkrs.com/link?url=https://foobar.com
+  - name: H5 - 超链接白名单跳转 (Pass)
+    url: https://m.lbkrs.com/link?url=https://longbridge.hk
+    expectedStatusCodes:
+      - 302
+  - name: H5 - 学院课程
+    url: https://longportapp.com/community/course/56
 
   # Help Center (以下的是 App 内在用的)
   - name: Help - Longbridge HK
