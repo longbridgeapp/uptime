@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lbkrs.com.ico",
     "slug": "lbkrs-com-longportapp-com",
     "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
+    "uptime": "97.34%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 3266,
     "timeDay": 3266,
     "timeWeek": 3266,
@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "download-longbridge-app-legacy",
     "status": "up",
-    "uptime": "77.40%",
-    "uptimeDay": "77.40%",
-    "uptimeWeek": "77.40%",
-    "uptimeMonth": "77.40%",
-    "uptimeYear": "77.40%",
+    "uptime": "77.47%",
+    "uptimeDay": "77.47%",
+    "uptimeWeek": "77.47%",
+    "uptimeMonth": "77.47%",
+    "uptimeYear": "77.47%",
     "time": 1608,
     "timeDay": 1608,
     "timeWeek": 1608,
@@ -209,11 +209,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.lbkrs.com.ico",
     "slug": "download-activity-download-legacy",
     "status": "up",
-    "uptime": "91.30%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "91.30%",
-    "uptimeYear": "91.30%",
+    "uptime": "91.33%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "91.33%",
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "91.33%",
     "time": 2485,
     "timeDay": 2485,
     "timeWeek": 2485,
@@ -589,11 +589,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "long-port-web-jobs-detail",
     "status": "up",
-    "uptime": "17.98%",
-    "uptimeDay": "17.98%",
-    "uptimeWeek": "17.98%",
-    "uptimeMonth": "17.98%",
-    "uptimeYear": "17.98%",
+    "uptime": "18.21%",
+    "uptimeDay": "18.21%",
+    "uptimeWeek": "18.21%",
+    "uptimeMonth": "18.21%",
+    "uptimeYear": "18.21%",
     "time": 867,
     "timeDay": 867,
     "timeWeek": 867,
@@ -933,18 +933,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.lbkrs.com.ico",
     "slug": "h5-longbridgehk-com",
     "status": "up",
-    "uptime": "3.46%",
-    "uptimeDay": "3.46%",
-    "uptimeWeek": "3.46%",
-    "uptimeMonth": "3.46%",
-    "uptimeYear": "3.46%",
+    "uptime": "2.13%",
+    "uptimeDay": "2.13%",
+    "uptimeWeek": "2.13%",
+    "uptimeMonth": "2.13%",
+    "uptimeYear": "2.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-21": 2
+      "2022-12-21": 3
     }
   },
   {
@@ -953,19 +953,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 转仓",
@@ -973,19 +971,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 任务中心",
@@ -993,19 +989,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 开户引导 Banner",
@@ -1031,19 +1025,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 券商开户引导 Banner",
@@ -1069,19 +1061,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 基金定投",
@@ -1089,19 +1079,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 我的卡券",
@@ -1109,19 +1097,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 我的行情",
@@ -1129,19 +1115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 行情商店",
@@ -1149,19 +1133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 定投百科",
@@ -1169,19 +1151,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 资讯主题",
@@ -1189,19 +1169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 新股中心",
@@ -1209,19 +1187,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 达人中心",
@@ -1229,19 +1205,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 用户登陆页",
@@ -1249,19 +1223,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 下载页",
@@ -1269,19 +1241,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 活动中心",
@@ -1289,19 +1259,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 资讯阅读页面",
@@ -1309,19 +1277,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 资讯阅读页面 - PDF",
@@ -1347,19 +1313,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 个股季报",
@@ -1367,19 +1331,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.lbkrs.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 产业链",
@@ -1387,19 +1349,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.lbkrs.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - Who's LEO",
@@ -1425,19 +1385,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 超链接白名单跳转 (Block)",
@@ -1481,19 +1439,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1107,
     "timeDay": 1107,
     "timeWeek": 1107,
     "timeMonth": 1107,
     "timeYear": 1107,
-    "dailyMinutesDown": {
-      "2022-12-21": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - Longbridge Pro - What's New",
