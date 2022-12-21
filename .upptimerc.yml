@@ -224,6 +224,8 @@ sites:
       - 302
   - name: H5 - 学院课程
     url: https://longportapp.com/community/course/56
+  - name: H5 - Longbridge Pro - What's New
+    url: https://activity.lbkrs.com/pipeline/longbridgePro/index.html
 
   # Help Center (以下的是 App 内在用的)
   - name: Help - Longbridge HK
@@ -250,3 +252,5 @@ sites:
     url: https://support.longbridgeapp.com/topics/misc/cr7cva
   - name: Help - 行情使用免责声明
     url: https://support.longbridgeapp.com/topics/misc/market-data-disclaimer?
+  - name: Help - 第三方 SDK 共享信息情况说明
+    url: https://support.longbridgeapp.com/topics/misc/sdk
