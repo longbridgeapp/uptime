@@ -51,7 +51,7 @@ sites:
   - name: lbkrs.com -> longportapp.com
     url: https://lbkrs.com
     expectedStatusCodes:
-      - 302
+      - 301
 
   # Download pages
   - name: Download - Longbridge App (Legacy)
