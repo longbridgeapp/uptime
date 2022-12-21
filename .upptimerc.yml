@@ -22,15 +22,6 @@ sites:
       - 301
     assignees:
       - ihavecoke
-  - name: Longbridge Web - News (longbridgeapp.com/news)
-    url: https://longportapp.com/news
-    headers:
-      - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    assignees:
-      - ihavecoke
-    expectedStatusCodes:
-      - 302
-      - 301
   - name: LongPort Web (longportapp.com)
     url: https://longportapp.com
     headers:
@@ -55,18 +46,42 @@ sites:
       - 200
     assignees:
       - ihavecoke
-  - name: Longbridge Web - Download
+
+  # Legacy
+  - name: lbkrs.com -> longportapp.com
+    url: https://lbkrs.com
+    expectedStatusCodes:
+      - 302
+
+  # Download pages
+  - name: Download - Longbridge App (Legacy)
     url: https://longbridgeapp.com/download
     expectedStatusCodes:
-      - 200
+      - 302
     assignees:
       - ihavecoke
-  - name: LongPort Web - Download
-    url: https://longportapp.com/download
-    expectedStatusCodes:
-      - 200
+  - name: Download - LongPort App (Legacy)
+    url: https://longportapp.com/longport/download
     assignees:
-      - hold-baby
+      - ihavecoke
+  - name: Download - Longbridge App
+    url: https://longportapp.com/download/longbridge
+    assignees:
+      - ihavecoke
+  - name: Download - LongPort App
+    url: https://longportapp.com/download
+    assignees:
+      - ihavecoke
+  - name: Download - Longbridge App QRCode (Legacy)
+    url: https://longbridgeapp.com/download/qr
+    expectedStatusCodes:
+      - 302
+    assignees:
+      - ihavecoke
+  - name: Download - Longbridge App QRCode (Legacy)
+    url: https://longportapp.com/download/qr?app_id=longbridge
+    assignees:
+      - ihavecoke
 
   # LongPort Web - Pages
   - name: LongPort Web - 公告 - 列表
