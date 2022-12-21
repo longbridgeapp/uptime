@@ -17,17 +17,12 @@ sites:
     url: https://longbridgeapp.com
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    expectedStatusCodes:
-      - 302
-      - 301
     assignees:
       - ihavecoke
   - name: LongPort Web (longportapp.com)
     url: https://longportapp.com
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    expectedStatusCodes:
-      - 200
     assignees:
       - ihavecoke
   - name: LongPort Web CN (longportapp.cn)
@@ -42,22 +37,16 @@ sites:
     url: https://longbridgeapp.com/quote/00700.HK?source_app=longbridge
     headers:
       - "User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; MI 6 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/043807 Mobile Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN miniProgram"
-    expectedStatusCodes:
-      - 200
     assignees:
       - ihavecoke
 
   # Legacy
   - name: lbkrs.com -> longportapp.com
     url: https://lbkrs.com
-    expectedStatusCodes:
-      - 301
 
   # Download pages
   - name: Download - Longbridge App (Legacy)
     url: https://longbridgeapp.com/download
-    expectedStatusCodes:
-      - 302
     assignees:
       - ihavecoke
   - name: Download - LongPort App (Legacy)
@@ -72,18 +61,12 @@ sites:
     url: https://longportapp.com/download
   - name: Download - Longbridge App QRCode (Legacy)
     url: https://longbridgeapp.com/download/qr
-    expectedStatusCodes:
-      - 302
   - name: Download - Longbridge App QRCode (Legacy)
     url: https://longportapp.com/download/qr?app_id=longbridge
   - name: Download - Activity Download (Legacy)
     url: https://activity.lbkrs.com/m/download
-    expectedStatusCodes:
-      - 302
   - name: H5 - Portal App Download
     url: https://m.lbkrs.com/app/download
-    expectedStatusCodes:
-      - 302
 
   # LongPort Web - Pages
   - name: LongPort Web - 公告 - 列表
@@ -220,8 +203,6 @@ sites:
     url: https://m.lbkrs.com/link?url=https://foobar.com
   - name: H5 - 超链接白名单跳转 (Pass)
     url: https://m.lbkrs.com/link?url=https://longbridge.hk
-    expectedStatusCodes:
-      - 302
   - name: H5 - 学院课程
     url: https://longportapp.com/community/course/56
   - name: H5 - Longbridge Pro - What's New
