@@ -67,6 +67,8 @@ sites:
     url: https://activity.lbkrs.com/m/download
   - name: H5 - Portal App Download
     url: https://m.lbkrs.com/app/download
+  - name: H5 - 下载页 (重定向到 longbridge.hk/zh-CN/download)
+    url: https://activity.longbridgehk.com/m/download
 
   # LongPort Web - Pages
   - name: LongPort Web - 公告 - 列表
@@ -183,6 +185,44 @@ sites:
     url: https://activity.lbkrs.com/pipeline/option10/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0&invite-code=845490
   - name: Activity - 交易期权领苹果 14 (HK)
     url: https://activity.longbridgehk.com/pipeline/option10/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0&invite-code=845490
+
+# H5 
+  - name: H5 - 开户页面 (重定向到 longbridgehk.com)
+    url : https://app.lbkrs.com/ac/oa
+  - name: H5 - 开户页面
+    url: https://app.longbridgehk.com/ac/oa
+  - name: H5 - 转仓
+    url: https://app.longbridgehk.com/ac/transfer
+  - name: H5 - 任务中心
+    url: https://app.longbridgehk.com/ac/task-center
+  - name: H5 - 开户引导 Banner
+    url: https://app.longbridgehk.com/ac/embed-banner
+  - name: H5 - 券商列表
+    url: https://app.longbridgehk.com/ac/oa/org/list
+  - name: H5 - 券商开户引导 Banner
+    url: https://app.longbridgehk.com/ac/org/guide/banner
+  - name: H5 - 新西兰开户 
+    url: https://app.longbridgehk.com/zh-CN/open-account
+  - name: H5 - 基金定投
+    url: https://activity.longbridgehk.com/spa/funds/aip
+  - name: H5 - 我的卡券
+    url: https://activity.longbridgehk.com/spa/my-cards
+  - name: H5 - 我的行情
+    url: https://activity.longbridgehk.com/spa/my-market
+  - name: H5 - 行情商店
+    url: https://activity.longbridgehk.com/spa/mall
+  - name: H5 - 定投百科
+    url: https://activity.longbridgehk.com/spa/aip/guide
+  - name: H5 - 资讯主题
+    url: https://activity.longbridgehk.com/spa/topics
+  - name: H5 - 新股中心
+    url: https://activity.longbridgehk.com/spa/ipo
+  - name: H5 - 达人中心
+    url: https://app.longbridgehk.com/community/talent/center
+  - name: H5 - 用户登陆页
+    url: https://activity.longbridgehk.com/login
+  - name: H5 - 活动中心
+    url: https://activity.longbridgehk.com/activity-center
 
   # Portal Page (以下的是 App 内在用的)
   - name: H5 - 资讯阅读页面
