@@ -185,8 +185,16 @@ sites:
     url: https://activity.lbkrs.com/pipeline/option10/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0&invite-code=845490
   - name: Activity - 交易期权领苹果 14 (HK)
     url: https://activity.longbridgehk.com/pipeline/option10/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0&invite-code=845490
+  - name: Activity - 邀请函活动（邀好友共享港美股终生免佣）
+    url: https://activity.lbkrs.com/pipeline/commission_invitor/index.html?sac=lb&businessType=activity&lbFitsStatusBar=1&code=C20211228001&channel=HM00521
+  - name: Activity - 香港邀请
+    url: https://activity.lbkrs.com/pipeline/HK_invite/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0&code=YQ1664281770&channel=HHMS00004&lang=zh-HK
+  - name: Activity - 普通用户拼团（两人组队入资）
+    url: https://activity.lbkrs.com/pipeline/groupnormal_11/index.html?account_channel=lb&app_id=longbridge&org_id=1&businessType=activity&lbFitsStatusBar=1&code=PT1667201293&lang=zh-CN
+  - name: Activity - 阿里拼团（两人组队转仓）
+    url: https://activity.lbkrs.com/pipeline/grouptransfer_ali11/index.html?sac=lb&businessType=activity&lbFitsStatusBar=1&code=PT1667206856&lang=zh-CN
 
-# H5 
+  # H5 
   - name: H5 - 开户页面 (重定向到 longbridgehk.com)
     url : https://app.lbkrs.com/ac/oa
   - name: H5 - 开户页面
@@ -223,6 +231,12 @@ sites:
     url: https://activity.longbridgehk.com/login
   - name: H5 - 活动中心
     url: https://activity.longbridgehk.com/activity-center
+
+  # Pagehub 搭建的功能页面
+  - name: Pagehub - 绑定邀请关系（登陆直接绑定邀请关系）
+    url: https://activity.lbkrs.com/pipeline/CN_invite_relationship/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0
+  - name: Pagehub - 奖励记录确认收货地址
+    url: https://activity.lbkrs.com/pipeline/address/index.html?sac=lb&lbFitsStatusBar=0&record_id=1725834
 
   # Portal Page (以下的是 App 内在用的)
   - name: H5 - 资讯阅读页面
