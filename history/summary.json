@@ -136,19 +136,19 @@
     "url": "https://longportapp.com/download/longbridge",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-longbridge-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 855,
-    "timeDay": 506,
-    "timeWeek": 858,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 857,
+    "timeDay": 693,
+    "timeWeek": 860,
+    "timeMonth": 857,
+    "timeYear": 857,
     "dailyMinutesDown": {
-      "2022-12-29": 1
+      "2022-12-29": 9
     }
   },
   {
