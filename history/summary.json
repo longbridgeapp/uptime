@@ -480,19 +480,19 @@
     "url": "https://longportapp.com/hash/310330",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-web-hashtag",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 282,
-    "timeDay": 204,
-    "timeWeek": 239,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 281,
+    "timeDay": 222,
+    "timeWeek": 241,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-12-29": 1
+      "2022-12-29": 6
     }
   },
   {
