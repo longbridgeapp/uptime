@@ -60,19 +60,19 @@
     "url": "https://longbridgeapp.com/quote/00700.HK?source_app=longbridge",
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "via-longbridgeapp-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3632,
-    "timeDay": 5917,
-    "timeWeek": 3761,
-    "timeMonth": 3632,
-    "timeYear": 3632,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3560,
+    "timeDay": 4379,
+    "timeWeek": 3488,
+    "timeMonth": 3560,
+    "timeYear": 3560,
     "dailyMinutesDown": {
-      "2023-01-07": 2
+      "2023-01-07": 12
     }
   },
   {
