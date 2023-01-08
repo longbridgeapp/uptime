@@ -99,18 +99,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "download-longbridge-app-legacy",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 2672,
     "timeDay": 5332,
     "timeWeek": 3389,
     "timeMonth": 2672,
     "timeYear": 2672,
     "dailyMinutesDown": {
-      "2023-01-08": 12,
       "2022-12-21": 72
     }
   },
@@ -156,19 +155,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 833,
     "timeDay": 661,
     "timeWeek": 768,
     "timeMonth": 833,
     "timeYear": 833,
-    "dailyMinutesDown": {
-      "2023-01-08": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Download - Longbridge App QRCode (Legacy)",
@@ -703,18 +700,20 @@
     "url": "https://longbridgeapp.com/topics/feed",
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "long-port-feed-topic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1047,
-    "timeDay": 1246,
-    "timeWeek": 1156,
+    "timeDay": 1190,
+    "timeWeek": 1144,
     "timeMonth": 1047,
     "timeYear": 1047,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-08": 1
+    }
   },
   {
     "name": "LongPort Feed - News of BABA.US",
