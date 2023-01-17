@@ -194,9 +194,9 @@ sites:
   - name: Activity - 阿里拼团（两人组队转仓）
     url: https://activity.lbkrs.com/pipeline/grouptransfer_ali11/index.html?sac=lb&businessType=activity&lbFitsStatusBar=1&code=PT1667206856&lang=zh-CN
 
-  # H5 
+  # H5
   - name: H5 - 开户页面 (重定向到 longbridgehk.com)
-    url : https://app.lbkrs.com/ac/oa
+    url: https://app.lbkrs.com/ac/oa
   - name: H5 - 开户页面
     url: https://app.longbridgehk.com/ac/oa
   - name: H5 - 转仓
@@ -209,7 +209,7 @@ sites:
     url: https://app.longbridgehk.com/ac/oa/org/list
   - name: H5 - 券商开户引导 Banner
     url: https://app.longbridgehk.com/ac/org/guide/banner
-  - name: H5 - 新西兰开户 
+  - name: H5 - 新西兰开户
     url: https://app.longbridgehk.com/zh-CN/open-account
   - name: H5 - 基金定投
     url: https://activity.longbridgehk.com/spa/funds/aip
@@ -289,3 +289,21 @@ sites:
     url: https://support.longbridgeapp.com/topics/misc/market-data-disclaimer?
   - name: Help - 第三方 SDK 共享信息情况说明
     url: https://support.longbridgeapp.com/topics/misc/sdk
+
+  # Sitemap & Feed
+  - name: Sitemap - https://longportapp.com/sitemap/news.html
+    url: https://longportapp.com/sitemap/news.html
+  - name: Sitemap - https://longportapp.com/sitemap/quote.html
+    url: https://longportapp.com/sitemap/quote.html
+  - name: Sitemap - https://longportapp.com/sitemap/topics.html
+    url: https://longportapp.com/sitemap/topics.html
+  - name: Sitemap - https://longportapp.com/sitemap/lives.html
+    url: https://longportapp.cn/sitemap/lives.html
+  - name: Feed - News
+    url: https://longportapp.com/news/feed
+  - name: Feed - News / Live
+    url: https://longportapp.com/news/live/feed
+  - name: Feed - Topics
+    url: https://longportapp.com/topics/feed
+  - name: Feed - Quote / News / Feed
+    url: https://longportapp.com/quote/BABA.US/news/feed
