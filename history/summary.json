@@ -13,7 +13,7 @@
     "time": 3221,
     "timeDay": 2825,
     "timeWeek": 3264,
-    "timeMonth": 3240,
+    "timeMonth": 3123,
     "timeYear": 3221,
     "dailyMinutesDown": {
       "2022-12-20": 44
@@ -33,7 +33,7 @@
     "time": 775,
     "timeDay": 1148,
     "timeWeek": 925,
-    "timeMonth": 789,
+    "timeMonth": 824,
     "timeYear": 775,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 3839,
     "timeDay": 4645,
     "timeWeek": 4108,
-    "timeMonth": 3781,
+    "timeMonth": 3839,
     "timeYear": 3839,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 3596,
     "timeDay": 4556,
     "timeWeek": 3759,
-    "timeMonth": 3506,
+    "timeMonth": 3565,
     "timeYear": 3596,
     "dailyMinutesDown": {}
   },
@@ -82,12 +82,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2863,
     "timeDay": 2416,
     "timeWeek": 2085,
-    "timeMonth": 2863,
+    "timeMonth": 2809,
     "timeYear": 2863,
     "dailyMinutesDown": {
       "2022-12-21": 9
@@ -102,12 +102,12 @@
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 2879,
     "timeDay": 1691,
     "timeWeek": 2699,
-    "timeMonth": 2879,
+    "timeMonth": 3091,
     "timeYear": 2879,
     "dailyMinutesDown": {
       "2022-12-21": 72
@@ -127,7 +127,7 @@
     "time": 839,
     "timeDay": 952,
     "timeWeek": 901,
-    "timeMonth": 839,
+    "timeMonth": 860,
     "timeYear": 839,
     "dailyMinutesDown": {}
   },
@@ -145,7 +145,7 @@
     "time": 864,
     "timeDay": 589,
     "timeWeek": 852,
-    "timeMonth": 864,
+    "timeMonth": 870,
     "timeYear": 864,
     "dailyMinutesDown": {}
   },
@@ -163,7 +163,7 @@
     "time": 821,
     "timeDay": 576,
     "timeWeek": 772,
-    "timeMonth": 821,
+    "timeMonth": 828,
     "timeYear": 821,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 1551,
     "timeDay": 1030,
     "timeWeek": 1628,
-    "timeMonth": 1551,
+    "timeMonth": 1640,
     "timeYear": 1551,
     "dailyMinutesDown": {}
   },
@@ -199,7 +199,7 @@
     "time": 1551,
     "timeDay": 1030,
     "timeWeek": 1628,
-    "timeMonth": 1551,
+    "timeMonth": 1640,
     "timeYear": 1551,
     "dailyMinutesDown": {}
   },
@@ -212,12 +212,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 2520,
     "timeDay": 2499,
     "timeWeek": 2539,
-    "timeMonth": 2520,
+    "timeMonth": 2525,
     "timeYear": 2520,
     "dailyMinutesDown": {
       "2022-12-21": 24
@@ -237,7 +237,7 @@
     "time": 2432,
     "timeDay": 3110,
     "timeWeek": 2676,
-    "timeMonth": 2432,
+    "timeMonth": 2435,
     "timeYear": 2432,
     "dailyMinutesDown": {}
   },
@@ -270,12 +270,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 资讯列表",
@@ -288,12 +290,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 资讯 - 长桥日报",
@@ -306,12 +310,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 资讯 - 动态新闻",
@@ -324,12 +330,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 资讯 - 海豚投研",
@@ -342,12 +350,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 资讯 - 长桥资讯",
@@ -360,12 +370,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 资讯阅读页面",
@@ -378,12 +390,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 个人 Profile",
@@ -399,7 +413,7 @@
     "time": 270,
     "timeDay": 279,
     "timeWeek": 259,
-    "timeMonth": 250,
+    "timeMonth": 248,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -414,12 +428,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 个人主页 - 关注者列表",
@@ -432,12 +448,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 个人主页 - 关注列表",
@@ -450,12 +468,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 个人主页 - 股票视图",
@@ -468,12 +488,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - Hashtag 话题 - 详情列表",
@@ -489,7 +511,7 @@
     "time": 270,
     "timeDay": 273,
     "timeWeek": 285,
-    "timeMonth": 252,
+    "timeMonth": 254,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -504,12 +526,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - Login",
@@ -525,7 +549,7 @@
     "time": 2205,
     "timeDay": 1716,
     "timeWeek": 2292,
-    "timeMonth": 2205,
+    "timeMonth": 2227,
     "timeYear": 2205,
     "dailyMinutesDown": {}
   },
@@ -543,7 +567,7 @@
     "time": 1802,
     "timeDay": 923,
     "timeWeek": 850,
-    "timeMonth": 1802,
+    "timeMonth": 1875,
     "timeYear": 1802,
     "dailyMinutesDown": {
       "2022-12-21": 20
@@ -560,12 +584,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - 企业员工认证",
@@ -578,12 +604,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Web - Jobs",
@@ -599,7 +627,7 @@
     "time": 959,
     "timeDay": 1047,
     "timeWeek": 1013,
-    "timeMonth": 959,
+    "timeMonth": 965,
     "timeYear": 959,
     "dailyMinutesDown": {}
   },
@@ -609,15 +637,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "long-port-web-jobs-detail",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.42%",
     "time": 846,
     "timeDay": 1026,
     "timeWeek": 903,
-    "timeMonth": 846,
+    "timeMonth": 841,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2022-12-21": 262
@@ -634,12 +662,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 403,
-    "timeWeek": 412,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 419,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "LongPort Feed - News",
@@ -655,7 +685,7 @@
     "time": 926,
     "timeDay": 998,
     "timeWeek": 900,
-    "timeMonth": 926,
+    "timeMonth": 952,
     "timeYear": 926,
     "dailyMinutesDown": {}
   },
@@ -673,7 +703,7 @@
     "time": 843,
     "timeDay": 1015,
     "timeWeek": 857,
-    "timeMonth": 843,
+    "timeMonth": 860,
     "timeYear": 843,
     "dailyMinutesDown": {}
   },
@@ -691,7 +721,7 @@
     "time": 843,
     "timeDay": 1015,
     "timeWeek": 857,
-    "timeMonth": 843,
+    "timeMonth": 860,
     "timeYear": 843,
     "dailyMinutesDown": {}
   },
@@ -709,7 +739,7 @@
     "time": 1056,
     "timeDay": 1020,
     "timeWeek": 946,
-    "timeMonth": 1056,
+    "timeMonth": 1060,
     "timeYear": 1056,
     "dailyMinutesDown": {}
   },
@@ -727,7 +757,7 @@
     "time": 839,
     "timeDay": 1018,
     "timeWeek": 822,
-    "timeMonth": 839,
+    "timeMonth": 832,
     "timeYear": 839,
     "dailyMinutesDown": {}
   },
@@ -745,7 +775,7 @@
     "time": 250,
     "timeDay": 240,
     "timeWeek": 248,
-    "timeMonth": 250,
+    "timeMonth": 254,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -763,7 +793,7 @@
     "time": 340,
     "timeDay": 223,
     "timeWeek": 326,
-    "timeMonth": 340,
+    "timeMonth": 338,
     "timeYear": 340,
     "dailyMinutesDown": {}
   },
@@ -781,7 +811,7 @@
     "time": 234,
     "timeDay": 231,
     "timeWeek": 246,
-    "timeMonth": 234,
+    "timeMonth": 235,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -799,7 +829,7 @@
     "time": 225,
     "timeDay": 229,
     "timeWeek": 226,
-    "timeMonth": 225,
+    "timeMonth": 228,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -817,7 +847,7 @@
     "time": 349,
     "timeDay": 231,
     "timeWeek": 384,
-    "timeMonth": 349,
+    "timeMonth": 364,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -835,7 +865,7 @@
     "time": 846,
     "timeDay": 1019,
     "timeWeek": 825,
-    "timeMonth": 846,
+    "timeMonth": 849,
     "timeYear": 846,
     "dailyMinutesDown": {}
   },
@@ -853,7 +883,7 @@
     "time": 115,
     "timeDay": 42,
     "timeWeek": 43,
-    "timeMonth": 72,
+    "timeMonth": 63,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -871,7 +901,7 @@
     "time": 123,
     "timeDay": 39,
     "timeWeek": 41,
-    "timeMonth": 96,
+    "timeMonth": 59,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -889,7 +919,7 @@
     "time": 62,
     "timeDay": 9,
     "timeWeek": 11,
-    "timeMonth": 62,
+    "timeMonth": 15,
     "timeYear": 62,
     "dailyMinutesDown": {}
   },
@@ -907,7 +937,7 @@
     "time": 41,
     "timeDay": 10,
     "timeWeek": 11,
-    "timeMonth": 41,
+    "timeMonth": 16,
     "timeYear": 41,
     "dailyMinutesDown": {}
   },
@@ -925,7 +955,7 @@
     "time": 50,
     "timeDay": 10,
     "timeWeek": 14,
-    "timeMonth": 50,
+    "timeMonth": 15,
     "timeYear": 50,
     "dailyMinutesDown": {}
   },
@@ -943,7 +973,7 @@
     "time": 19,
     "timeDay": 9,
     "timeWeek": 13,
-    "timeMonth": 19,
+    "timeMonth": 15,
     "timeYear": 19,
     "dailyMinutesDown": {}
   },
@@ -1025,11 +1055,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.lbkrs.com.ico",
     "slug": "h5-longbridgehk-com",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.49%",
     "time": 2876,
     "timeDay": 2524,
     "timeWeek": 2839,
@@ -1054,7 +1084,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1072,7 +1102,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1090,7 +1120,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1126,7 +1156,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1162,7 +1192,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1180,7 +1210,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1198,7 +1228,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1216,7 +1246,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1234,7 +1264,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1252,7 +1282,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1270,7 +1300,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1288,7 +1318,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1306,7 +1336,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1324,7 +1354,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1342,7 +1372,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1396,7 +1426,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1414,7 +1444,7 @@
     "time": 924,
     "timeDay": 995,
     "timeWeek": 906,
-    "timeMonth": 924,
+    "timeMonth": 932,
     "timeYear": 924,
     "dailyMinutesDown": {}
   },
@@ -1432,7 +1462,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1450,7 +1480,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1468,7 +1498,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1486,7 +1516,7 @@
     "time": 1730,
     "timeDay": 1920,
     "timeWeek": 2026,
-    "timeMonth": 1730,
+    "timeMonth": 1779,
     "timeYear": 1730,
     "dailyMinutesDown": {}
   },
@@ -1504,7 +1534,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1522,7 +1552,7 @@
     "time": 738,
     "timeDay": 794,
     "timeWeek": 703,
-    "timeMonth": 738,
+    "timeMonth": 747,
     "timeYear": 738,
     "dailyMinutesDown": {}
   },
@@ -1540,7 +1570,7 @@
     "time": 1886,
     "timeDay": 1989,
     "timeWeek": 1891,
-    "timeMonth": 1886,
+    "timeMonth": 1921,
     "timeYear": 1886,
     "dailyMinutesDown": {}
   },
@@ -1558,7 +1588,7 @@
     "time": 1011,
     "timeDay": 955,
     "timeWeek": 968,
-    "timeMonth": 1011,
+    "timeMonth": 1007,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   },
@@ -1576,7 +1606,7 @@
     "time": 128,
     "timeDay": 76,
     "timeWeek": 68,
-    "timeMonth": 128,
+    "timeMonth": 112,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -1594,7 +1624,7 @@
     "time": 1535,
     "timeDay": 1612,
     "timeWeek": 1364,
-    "timeMonth": 1535,
+    "timeMonth": 1572,
     "timeYear": 1535,
     "dailyMinutesDown": {}
   },
@@ -1612,7 +1642,7 @@
     "time": 1413,
     "timeDay": 1502,
     "timeWeek": 1408,
-    "timeMonth": 1413,
+    "timeMonth": 1415,
     "timeYear": 1413,
     "dailyMinutesDown": {}
   },
@@ -1630,7 +1660,7 @@
     "time": 649,
     "timeDay": 656,
     "timeWeek": 615,
-    "timeMonth": 649,
+    "timeMonth": 655,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1650,7 +1680,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1670,7 +1700,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1690,7 +1720,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1710,7 +1740,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1730,7 +1760,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1750,7 +1780,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1770,7 +1800,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1790,7 +1820,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1810,7 +1840,7 @@
     "time": 755,
     "timeDay": 823,
     "timeWeek": 801,
-    "timeMonth": 755,
+    "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -1830,7 +1860,7 @@
     "time": 1486,
     "timeDay": 1882,
     "timeWeek": 1507,
-    "timeMonth": 1486,
+    "timeMonth": 1492,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2023-01-10": 22
