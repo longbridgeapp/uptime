@@ -78,10 +78,10 @@
     "url": "https://lbkrs.com",
     "icon": "https://icons.duckduckgo.com/ip3/lbkrs.com.ico",
     "slug": "lbkrs-com-longportapp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2806,
@@ -90,6 +90,7 @@
     "timeMonth": 2737,
     "timeYear": 2806,
     "dailyMinutesDown": {
+      "2023-01-23": 2,
       "2022-12-21": 9
     }
   },
@@ -1025,11 +1026,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.lbkrs.com.ico",
     "slug": "h5-longbridgehk-com",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.58%",
     "time": 2894,
     "timeDay": 3075,
     "timeWeek": 2833,
@@ -1842,19 +1843,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "sitemap-https-longportapp-com-sitemap-news-html",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1079,
     "timeDay": 1044,
     "timeWeek": 1079,
     "timeMonth": 1079,
     "timeYear": 1079,
-    "dailyMinutesDown": {
-      "2023-01-23": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sitemap - https://longportapp.com/sitemap/quote.html",
