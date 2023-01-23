@@ -1841,18 +1841,20 @@
     "url": "https://longportapp.com/sitemap/news.html",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "sitemap-https-longportapp-com-sitemap-news-html",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 1132,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1051,
+    "timeDay": 918,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
+    "dailyMinutesDown": {
+      "2023-01-23": 3
+    }
   },
   {
     "name": "Sitemap - https://longportapp.com/sitemap/quote.html",
