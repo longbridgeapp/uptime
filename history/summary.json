@@ -701,19 +701,19 @@
     "url": "https://longbridgeapp.com/topics/feed",
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "long-port-feed-topic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 826,
-    "timeWeek": 885,
-    "timeMonth": 1042,
-    "timeYear": 1046,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1048,
+    "timeDay": 934,
+    "timeWeek": 914,
+    "timeMonth": 1045,
+    "timeYear": 1048,
     "dailyMinutesDown": {
-      "2023-01-24": 2
+      "2023-01-24": 12
     }
   },
   {
