@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "longbridge-web-longbridgeapp-com",
     "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "38.80%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.24%",
+    "uptime": "98.06%",
+    "uptimeDay": "32.09%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "98.06%",
     "time": 3754,
     "timeDay": 16357,
     "timeWeek": 6565,
     "timeMonth": 3985,
     "timeYear": 3754,
     "dailyMinutesDown": {
-      "2023-01-25": 881,
+      "2023-01-26": 63,
+      "2023-01-25": 915,
       "2022-12-20": 44
     }
   },
@@ -26,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-web-longportapp-com",
     "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "38.84%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.32%",
+    "uptime": "98.14%",
+    "uptimeDay": "32.13%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "98.14%",
     "time": 782,
     "timeDay": 660,
     "timeWeek": 868,
     "timeMonth": 827,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2023-01-25": 881
+      "2023-01-26": 63,
+      "2023-01-25": 914
     }
   },
   {
@@ -66,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "via-longbridgeapp-com",
     "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "38.90%",
-    "uptimeWeek": "91.27%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.33%",
+    "uptime": "98.15%",
+    "uptimeDay": "32.19%",
+    "uptimeWeek": "90.31%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "98.15%",
     "time": 3719,
     "timeDay": 4011,
     "timeWeek": 4645,
     "timeMonth": 3703,
     "timeYear": 3719,
     "dailyMinutesDown": {
-      "2023-01-25": 880
+      "2023-01-26": 63,
+      "2023-01-25": 913
     }
   },
   {
@@ -86,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lbkrs.com.ico",
     "slug": "lbkrs-com-longportapp-com",
     "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "38.94%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "98.24%",
+    "uptime": "98.05%",
+    "uptimeDay": "32.23%",
+    "uptimeWeek": "90.16%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "98.05%",
     "time": 2834,
     "timeDay": 5875,
     "timeWeek": 2507,
     "timeMonth": 2713,
     "timeYear": 2834,
     "dailyMinutesDown": {
-      "2023-01-25": 879,
+      "2023-01-26": 63,
+      "2023-01-25": 913,
       "2023-01-24": 16,
       "2022-12-21": 9
     }
@@ -108,18 +112,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "download-longbridge-app-legacy",
     "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "38.97%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.14%",
+    "uptime": "97.96%",
+    "uptimeDay": "32.26%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.96%",
     "time": 2833,
     "timeDay": 2593,
     "timeWeek": 2201,
     "timeMonth": 2943,
     "timeYear": 2833,
     "dailyMinutesDown": {
-      "2023-01-25": 879,
+      "2023-01-26": 63,
+      "2023-01-25": 912,
       "2022-12-21": 72
     }
   },
@@ -129,18 +134,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app-legacy",
     "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "39.01%",
-    "uptimeWeek": "91.29%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "98.28%",
+    "uptime": "98.10%",
+    "uptimeDay": "32.29%",
+    "uptimeWeek": "90.33%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "98.10%",
     "time": 848,
     "timeDay": 886,
     "timeWeek": 918,
     "timeMonth": 855,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2023-01-25": 878
+      "2023-01-26": 63,
+      "2023-01-25": 912
     }
   },
   {
@@ -149,18 +155,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-longbridge-app",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "39.04%",
-    "uptimeWeek": "91.29%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.10%",
+    "uptimeDay": "32.33%",
+    "uptimeWeek": "90.33%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "98.10%",
     "time": 865,
     "timeDay": 798,
     "timeWeek": 833,
     "timeMonth": 872,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2023-01-25": 878
+      "2023-01-26": 63,
+      "2023-01-25": 911
     }
   },
   {
@@ -169,18 +176,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "39.07%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.10%",
+    "uptimeDay": "32.36%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "98.10%",
     "time": 826,
     "timeDay": 931,
     "timeWeek": 834,
     "timeMonth": 780,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-01-25": 877
+      "2023-01-26": 63,
+      "2023-01-25": 911
     }
   },
   {
@@ -189,18 +197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "download-longbridge-app-qr-code-legacy",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "39.11%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.10%",
+    "uptimeDay": "32.39%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "98.10%",
     "time": 1585,
     "timeDay": 1727,
     "timeWeek": 1651,
     "timeMonth": 1648,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2023-01-25": 877
+      "2023-01-26": 63,
+      "2023-01-25": 910
     }
   },
   {
@@ -209,18 +218,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-longbridge-app-qr-code-legacy",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "39.11%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.10%",
+    "uptimeDay": "32.39%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "98.10%",
     "time": 1585,
     "timeDay": 1727,
     "timeWeek": 1651,
     "timeMonth": 1648,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2023-01-25": 877
+      "2023-01-26": 63,
+      "2023-01-25": 910
     }
   },
   {
@@ -757,19 +767,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-sitemap-news-page",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 261,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2023-01-25": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LongPort Sitemap - News (XML)",
