@@ -434,19 +434,19 @@
     "url": "https://longportapp.com/profiles/6539443",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-web-profile",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 270,
-    "timeDay": 267,
-    "timeWeek": 287,
+    "timeDay": 271,
+    "timeWeek": 286,
     "timeMonth": 267,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2023-02-16": 2
+      "2023-02-16": 7
     }
   },
   {
