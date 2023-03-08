@@ -777,20 +777,18 @@
     "url": "https://longportapp.com/hash/310330",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-web-hashtag",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 228,
-    "timeWeek": 225,
+    "time": 260,
+    "timeDay": 240,
+    "timeWeek": 229,
     "timeMonth": 252,
-    "timeYear": 259,
-    "dailyMinutesDown": {
-      "2023-03-08": 3
-    }
+    "timeYear": 260,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LongPort Web - 话题 - 详情热门列表",
