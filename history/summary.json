@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-web-longportapp-com",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.71%",
     "time": 815,
     "timeDay": 1008,
     "timeWeek": 926,
@@ -105,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lbkrs.com.ico",
     "slug": "lbkrs-com-longportapp-com",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.41%",
     "time": 2616,
     "timeDay": 2218,
     "timeWeek": 2489,
@@ -410,11 +410,11 @@
     "url": "https://longportapp.com/download",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.69%",
     "time": 897,
     "timeDay": 767,
@@ -422,6 +422,7 @@
     "timeMonth": 798,
     "timeYear": 897,
     "dailyMinutesDown": {
+      "2023-03-24": 3,
       "2023-01-26": 841,
       "2023-01-25": 911
     }
@@ -498,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5-portal-app-download",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 2560,
     "timeDay": 2401,
     "timeWeek": 2471,
@@ -541,7 +542,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -551,7 +552,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -563,7 +563,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -573,7 +573,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -585,7 +584,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -595,7 +594,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -607,7 +605,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -617,7 +615,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -629,7 +626,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -639,7 +636,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -651,7 +647,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -661,7 +657,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -673,7 +668,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -683,7 +678,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -713,7 +707,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -723,7 +717,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -735,7 +728,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -745,7 +738,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -757,7 +749,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -767,7 +759,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -779,7 +770,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -789,7 +780,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -819,7 +809,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -829,7 +819,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -880,7 +869,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -890,7 +879,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -902,7 +890,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -912,7 +900,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -962,7 +949,7 @@
     "slug": "long-port-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
@@ -972,7 +959,6 @@
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-03-24": 0,
       "2023-03-01": 57,
       "2023-02-28": 17
     }
@@ -1820,11 +1806,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "h5-who-s-leo",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.91%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.33%",
     "time": 2187,
     "timeDay": 3282,
     "timeWeek": 2270,
@@ -1879,11 +1865,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5-pass",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1951,
     "timeDay": 1594,
     "timeWeek": 1812,
@@ -1936,11 +1922,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.longbridge.hk.ico",
     "slug": "help-longbridge-hk",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 1485,
     "timeDay": 1117,
     "timeWeek": 1353,
@@ -2249,11 +2235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.cn.ico",
     "slug": "sitemap-https-longportapp-com-sitemap-lives-html",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 2155,
     "timeDay": 2789,
     "timeWeek": 2089,
@@ -2310,11 +2296,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "feed-topics",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "95.04%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 229,
     "timeDay": 224,
     "timeWeek": 266,
