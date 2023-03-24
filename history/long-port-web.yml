@@ -1,7 +1,7 @@
-url: https://longportapp.com/news
-status: up
-code: 200
-responseTime: 197
-lastUpdated: 2023-03-24T08:41:27.778Z
+url: https://longportapp.com/announcements
+status: down
+code: 500
+responseTime: 657
+lastUpdated: 2023-03-24T08:51:51.564Z
 startTime: Tue Dec 20 2022 11:35:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
