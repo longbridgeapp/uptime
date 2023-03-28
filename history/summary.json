@@ -105,10 +105,10 @@
     "url": "https://lbkrs.com",
     "icon": "https://icons.duckduckgo.com/ip3/lbkrs.com.ico",
     "slug": "lbkrs-com-longportapp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "98.47%",
     "time": 2619,
@@ -117,6 +117,7 @@
     "timeMonth": 2629,
     "timeYear": 2619,
     "dailyMinutesDown": {
+      "2023-03-28": 2,
       "2023-03-25": 2,
       "2023-03-21": 90,
       "2023-03-20": 51,
@@ -791,19 +792,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-web-hashtag",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 336,
     "timeWeek": 342,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2023-03-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LongPort Web - 话题 - 详情热门列表",
