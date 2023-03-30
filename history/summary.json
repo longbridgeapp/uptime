@@ -1105,19 +1105,19 @@
     "url": "https://longportapp.com/sitemap/topics.html",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-sitemap-topic-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 496,
-    "timeWeek": 421,
-    "timeMonth": 274,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 253,
+    "timeDay": 489,
+    "timeWeek": 427,
+    "timeMonth": 280,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-03-30": 2
+      "2023-03-30": 11
     }
   },
   {
