@@ -1,7 +1,7 @@
 url: https://longportapp.cn
-status: up
-code: 200
-responseTime: 4242
-lastUpdated: 2023-04-02T23:06:49.967Z
+status: down
+code: 502
+responseTime: 2897
+lastUpdated: 2023-04-03T20:45:32.793Z
 startTime: Tue Dec 20 2022 11:07:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
