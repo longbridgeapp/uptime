@@ -1,7 +1,7 @@
 url: https://longbridgeapp.com/quote/00700.HK?source_app=longbridge
-status: up
-code: 200
-responseTime: 4088
-lastUpdated: 2023-04-17T23:07:30.357Z
+status: down
+code: 502
+responseTime: 2537
+lastUpdated: 2023-04-18T19:34:29.727Z
 startTime: Tue Dec 20 2022 11:07:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
