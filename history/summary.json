@@ -112,10 +112,10 @@
     "url": "https://lbkrs.com",
     "icon": "https://icons.duckduckgo.com/ip3/lbkrs.com.ico",
     "slug": "lbkrs-com-longportapp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.78%",
     "time": 2724,
@@ -124,7 +124,7 @@
     "timeMonth": 2713,
     "timeYear": 2724,
     "dailyMinutesDown": {
-      "2023-05-15": 39,
+      "2023-05-15": 41,
       "2023-05-13": 17,
       "2023-05-03": 28,
       "2023-04-26": 1,
@@ -1009,7 +1009,7 @@
     "time": 916,
     "timeDay": 598,
     "timeWeek": 881,
-    "timeMonth": 976,
+    "timeMonth": 968,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2022-12-21": 262
@@ -1053,7 +1053,7 @@
     "time": 899,
     "timeDay": 912,
     "timeWeek": 775,
-    "timeMonth": 856,
+    "timeMonth": 879,
     "timeYear": 899,
     "dailyMinutesDown": {}
   },
@@ -1071,7 +1071,7 @@
     "time": 790,
     "timeDay": 732,
     "timeWeek": 677,
-    "timeMonth": 773,
+    "timeMonth": 767,
     "timeYear": 790,
     "dailyMinutesDown": {}
   },
@@ -1089,7 +1089,7 @@
     "time": 790,
     "timeDay": 732,
     "timeWeek": 677,
-    "timeMonth": 773,
+    "timeMonth": 767,
     "timeYear": 790,
     "dailyMinutesDown": {}
   },
