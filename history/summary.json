@@ -2281,19 +2281,19 @@
     "url": "https://longportapp.com/sitemap/quote.html",
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "sitemap-https-longportapp-com-sitemap-quote-html",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 308,
-    "timeDay": 382,
-    "timeWeek": 418,
-    "timeMonth": 422,
-    "timeYear": 308,
+    "time": 309,
+    "timeDay": 399,
+    "timeWeek": 420,
+    "timeMonth": 423,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-05-23": 9
+      "2023-05-23": 13
     }
   },
   {
