@@ -115,16 +115,17 @@
     "slug": "lbkrs-com-longportapp-com",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "98.80%",
-    "time": 2739,
-    "timeDay": 2866,
-    "timeWeek": 2832,
-    "timeMonth": 2737,
-    "timeYear": 2739,
+    "time": 2740,
+    "timeDay": 2980,
+    "timeWeek": 2850,
+    "timeMonth": 2740,
+    "timeYear": 2740,
     "dailyMinutesDown": {
+      "2023-05-25": 5,
       "2023-05-24": 22,
       "2023-05-21": 32,
       "2023-05-16": 50,
@@ -395,11 +396,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app-legacy",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 768,
     "timeDay": 451,
     "timeWeek": 418,
@@ -1459,16 +1460,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 转仓",
@@ -1477,16 +1480,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 任务中心",
@@ -1495,16 +1500,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 开户引导 Banner",
@@ -1531,16 +1538,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 券商开户引导 Banner",
@@ -1567,16 +1576,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 基金定投",
@@ -1585,16 +1596,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 我的卡券",
@@ -1603,16 +1616,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 我的行情",
@@ -1621,16 +1636,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 行情商店",
@@ -1639,16 +1656,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 定投百科",
@@ -1657,16 +1676,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 资讯主题",
@@ -1675,16 +1696,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 新股中心",
@@ -1693,16 +1716,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 达人中心",
@@ -1711,16 +1736,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 用户登陆页",
@@ -1729,16 +1756,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "H5 - 活动中心",
@@ -1747,16 +1776,18 @@
     "slug": "h5",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   },
   {
     "name": "Pagehub - 绑定邀请关系（登陆直接绑定邀请关系）",
@@ -1806,9 +1837,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
@@ -1842,9 +1873,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
@@ -1860,9 +1891,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
@@ -1878,9 +1909,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
@@ -1919,9 +1950,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
@@ -1976,9 +2007,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 788,
-    "timeWeek": 877,
-    "timeMonth": 853,
+    "timeDay": 781,
+    "timeWeek": 875,
+    "timeMonth": 852,
     "timeYear": 917,
     "dailyMinutesDown": {}
   },
