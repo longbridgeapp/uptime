@@ -49,16 +49,17 @@
     "slug": "long-port-web-cn-longportapp-cn",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.85%",
-    "time": 4239,
-    "timeDay": 3689,
-    "timeWeek": 4347,
-    "timeMonth": 4392,
-    "timeYear": 4239,
+    "time": 4243,
+    "timeDay": 4440,
+    "timeWeek": 4528,
+    "timeMonth": 4414,
+    "timeYear": 4243,
     "dailyMinutesDown": {
+      "2023-05-29": 5,
       "2023-04-02": 45,
       "2023-03-30": 1,
       "2023-02-28": 134,
@@ -75,13 +76,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "via-longbridgeapp-com",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 4069,
-    "timeDay": 4229,
+    "timeDay": 4364,
     "timeWeek": 3930,
     "timeMonth": 4010,
     "timeYear": 4069,
@@ -120,9 +121,9 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "98.80%",
     "time": 2764,
-    "timeDay": 2944,
-    "timeWeek": 3043,
-    "timeMonth": 2812,
+    "timeDay": 3053,
+    "timeWeek": 3079,
+    "timeMonth": 2823,
     "timeYear": 2764,
     "dailyMinutesDown": {
       "2023-05-29": 31,
@@ -397,11 +398,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app-legacy",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 758,
     "timeDay": 403,
     "timeWeek": 408,
@@ -442,11 +443,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 709,
     "timeDay": 403,
     "timeWeek": 414,
@@ -509,11 +510,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity.lbkrs.com.ico",
     "slug": "download-activity-download-legacy",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 2292,
     "timeDay": 1901,
     "timeWeek": 1866,
@@ -531,11 +532,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5-portal-app-download",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 2485,
     "timeDay": 2331,
     "timeWeek": 2446,
@@ -1231,7 +1232,7 @@
     "time": 445,
     "timeDay": 735,
     "timeWeek": 685,
-    "timeMonth": 617,
+    "timeMonth": 638,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -2055,7 +2056,7 @@
     "time": 680,
     "timeDay": 676,
     "timeWeek": 742,
-    "timeMonth": 704,
+    "timeMonth": 719,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2075,7 +2076,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2095,7 +2096,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2115,7 +2116,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2135,7 +2136,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2155,7 +2156,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2175,7 +2176,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2195,7 +2196,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2215,7 +2216,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2235,7 +2236,7 @@
     "time": 783,
     "timeDay": 800,
     "timeWeek": 766,
-    "timeMonth": 782,
+    "timeMonth": 784,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-10": 22
@@ -2255,7 +2256,7 @@
     "time": 1383,
     "timeDay": 1273,
     "timeWeek": 1404,
-    "timeMonth": 1377,
+    "timeMonth": 1401,
     "timeYear": 1383,
     "dailyMinutesDown": {
       "2023-01-10": 22
