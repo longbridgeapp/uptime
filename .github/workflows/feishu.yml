@@ -10,10 +10,8 @@ jobs:
         uses: whatwewant/action-robot-feishu@v0.0.13
         with:
           url: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          title: Uptime Warning
+          title: ${{ github.event.issue.title }}
           text: |
-            ${{ github.event.issue.title }}
-
-            ${{ github.event.issue.html_url }}
-
             ${{ github.event.issue.body }}
+
+            ${{ github.event.issue.url }}
