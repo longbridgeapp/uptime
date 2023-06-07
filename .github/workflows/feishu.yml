@@ -14,6 +14,6 @@ jobs:
           text: |
             ${{ github.event.issue.title }}
 
-            ${{ github.event.issue.url }}
+            ${{ github.event.issue.html_url }}
 
             ${{ github.event.issue.body }}
