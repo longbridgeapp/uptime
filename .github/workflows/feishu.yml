@@ -6,14 +6,14 @@ jobs:
     name: Feishu Bot
     runs-on: ubuntu-latest
     steps:
-      - name: Feishu Bot Nessage
+      - name: Feishu Bot Message
         uses: whatwewant/action-robot-feishu@v0.0.13
         with:
           url: ${{ secrets.FEISHU_WEBHOOK_URL }}
           title: Uptime Warning
           text: |
-            ${{ github.issue.title }}
+            ${{ github.event.issue.title }}
 
-            ${{ github.issue.url }}
+            ${{ github.event.issue.url }}
 
-            ${{ github.issue.body }}
+            ${{ github.event.issue.body }}
