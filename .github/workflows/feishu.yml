@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Feishu Bot Nessage
-        uses: whatwewant/action-robot-feishu@v0.0.1
+        uses: whatwewant/action-robot-feishu@v0.0.13
         with:
           url: ${{ secrets.FEISHU_WEBHOOK_URL }}
           title: Uptime Warning
