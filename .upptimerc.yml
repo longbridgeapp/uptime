@@ -40,10 +40,6 @@ sites:
     assignees:
       - ihavecoke
 
-  # Legacy
-  - name: lbkrs.com -> longportapp.com
-    url: https://lbkrs.com
-
   # Licensed official website
   - name: 長橋證券（香港）- index
     url: https://longbridge.hk
