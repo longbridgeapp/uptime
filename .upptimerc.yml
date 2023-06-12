@@ -333,3 +333,6 @@ sites:
     url: https://longportapp.com/topics/feed
   - name: Feed - Quote / News / Feed
     url: https://longportapp.com/quote/BABA.US/news/feed
+    
+  - name: Test failed
+    url: https://this-is-not-exist.com
