@@ -1430,11 +1430,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 转仓",
@@ -1448,11 +1450,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 任务中心",
@@ -1466,11 +1470,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 开户引导 Banner",
@@ -1502,11 +1508,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 券商开户引导 Banner",
@@ -1538,11 +1546,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 基金定投",
@@ -1556,11 +1566,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 我的卡券",
@@ -1574,11 +1586,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 我的行情",
@@ -1592,11 +1606,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 行情商店",
@@ -1610,11 +1626,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 定投百科",
@@ -1628,11 +1646,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 资讯主题",
@@ -1646,11 +1666,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 新股中心",
@@ -1664,11 +1686,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 达人中心",
@@ -1682,11 +1706,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 用户登陆页",
@@ -1700,11 +1726,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 活动中心",
@@ -1718,11 +1746,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Pagehub - 绑定邀请关系（登陆直接绑定邀请关系）",
@@ -1772,11 +1802,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 资讯阅读页面 - PDF",
@@ -1808,11 +1840,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 个股季报",
@@ -1826,11 +1860,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 产业链",
@@ -1844,11 +1880,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - Who's LEO",
@@ -1885,11 +1923,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - 超链接白名单跳转 (Block)",
@@ -1942,11 +1982,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 752,
-    "timeWeek": 876,
-    "timeMonth": 883,
+    "timeDay": 723,
+    "timeWeek": 869,
+    "timeMonth": 881,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "H5 - Longbridge Pro - What's New",
