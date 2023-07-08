@@ -1,7 +1,7 @@
 url: https://support.longbridgehk.com/topics/us-trade/about-lb
-status: up
-code: 200
-responseTime: 616
-lastUpdated: 2023-07-07T23:10:12.777Z
+status: down
+code: 500
+responseTime: 247
+lastUpdated: 2023-07-08T11:56:51.843Z
 startTime: Wed Dec 21 2022 10:45:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
