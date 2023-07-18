@@ -1,7 +1,7 @@
-url: https://app.longbridgehk.com/ac/oa/org/list
-status: down
-code: 421
-responseTime: 23
-lastUpdated: 2023-07-18T16:50:02.305Z
+url: https://app.longbridgehk.com/zh-CN/open-account
+status: up
+code: 200
+responseTime: 1339
+lastUpdated: 2023-07-18T16:50:06.625Z
 startTime: Wed Dec 21 2022 10:45:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
