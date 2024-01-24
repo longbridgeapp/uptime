@@ -2020,7 +2020,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2029,9 +2029,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 美股盘前盘后行情说明",
@@ -2040,7 +2038,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2049,9 +2047,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 资金流向数据说明",
@@ -2060,7 +2056,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2069,9 +2065,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 订单有效期说明",
@@ -2080,7 +2074,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2089,9 +2083,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 总资产字段说明",
@@ -2100,7 +2092,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2109,9 +2101,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 免责声明",
@@ -2120,7 +2110,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2129,9 +2119,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 长桥服务协议",
@@ -2140,7 +2128,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2149,9 +2137,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 社区协议",
@@ -2160,7 +2146,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2169,9 +2155,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 行情使用免责声明",
@@ -2180,7 +2164,7 @@
     "slug": "help",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -2189,9 +2173,7 @@
     "timeWeek": 504,
     "timeMonth": 547,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2024-01-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 第三方 SDK 共享信息情况说明",
