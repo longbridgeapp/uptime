@@ -322,7 +322,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "download-long-port-app-legacy",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1982,9 +1982,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 美股盘前盘后行情说明",
@@ -2002,9 +2000,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 资金流向数据说明",
@@ -2022,9 +2018,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 订单有效期说明",
@@ -2042,9 +2036,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 总资产字段说明",
@@ -2062,9 +2054,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 免责声明",
@@ -2082,9 +2072,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 长桥服务协议",
@@ -2102,9 +2090,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 社区协议",
@@ -2122,9 +2108,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 行情使用免责声明",
@@ -2142,9 +2126,7 @@
     "timeWeek": 609,
     "timeMonth": 559,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2024-02-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 第三方 SDK 共享信息情况说明",
