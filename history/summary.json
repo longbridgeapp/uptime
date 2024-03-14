@@ -1757,15 +1757,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.71%",
     "time": 1647,
     "timeDay": 1048,
     "timeWeek": 881,
     "timeMonth": 846,
     "timeYear": 1505,
-    "dailyMinutesDown": {
-      "2023-03-15": 171
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5 - 获取服务端时间",
@@ -1927,9 +1925,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 美股盘前盘后行情说明",
@@ -1947,9 +1943,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 资金流向数据说明",
@@ -1967,9 +1961,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 订单有效期说明",
@@ -1987,9 +1979,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 总资产字段说明",
@@ -2007,9 +1997,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 免责声明",
@@ -2027,9 +2015,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 长桥服务协议",
@@ -2047,9 +2033,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 社区协议",
@@ -2067,9 +2051,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 行情使用免责声明",
@@ -2087,9 +2069,7 @@
     "timeWeek": 567,
     "timeMonth": 568,
     "timeYear": 743,
-    "dailyMinutesDown": {
-      "2024-03-13": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 第三方 SDK 共享信息情况说明",
