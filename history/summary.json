@@ -13,7 +13,7 @@
     "time": 3419,
     "timeDay": 3479,
     "timeWeek": 3015,
-    "timeMonth": 3097,
+    "timeMonth": 3105,
     "timeYear": 3427,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1209,
     "timeDay": 1167,
     "timeWeek": 1064,
-    "timeMonth": 966,
+    "timeMonth": 974,
     "timeYear": 1323,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 4784,
     "timeDay": 4151,
     "timeWeek": 4423,
-    "timeMonth": 4680,
+    "timeMonth": 4701,
     "timeYear": 4968,
     "dailyMinutesDown": {
       "2023-04-02": 45,
@@ -70,7 +70,7 @@
     "time": 4125,
     "timeDay": 4139,
     "timeWeek": 4188,
-    "timeMonth": 4064,
+    "timeMonth": 4093,
     "timeYear": 4193,
     "dailyMinutesDown": {
       "2023-06-07": 93,
@@ -97,7 +97,7 @@
     "time": 1266,
     "timeDay": 1707,
     "timeWeek": 1537,
-    "timeMonth": 1669,
+    "timeMonth": 1671,
     "timeYear": 1269,
     "dailyMinutesDown": {}
   },
@@ -115,7 +115,7 @@
     "time": 963,
     "timeDay": 1241,
     "timeWeek": 962,
-    "timeMonth": 994,
+    "timeMonth": 1004,
     "timeYear": 962,
     "dailyMinutesDown": {}
   },
@@ -133,7 +133,7 @@
     "time": 1283,
     "timeDay": 1696,
     "timeWeek": 1445,
-    "timeMonth": 1456,
+    "timeMonth": 1470,
     "timeYear": 1303,
     "dailyMinutesDown": {}
   },
@@ -151,7 +151,7 @@
     "time": 909,
     "timeDay": 1230,
     "timeWeek": 1038,
-    "timeMonth": 1030,
+    "timeMonth": 1038,
     "timeYear": 907,
     "dailyMinutesDown": {}
   },
@@ -169,7 +169,7 @@
     "time": 1266,
     "timeDay": 1707,
     "timeWeek": 1537,
-    "timeMonth": 1668,
+    "timeMonth": 1671,
     "timeYear": 1269,
     "dailyMinutesDown": {}
   },
@@ -187,7 +187,7 @@
     "time": 963,
     "timeDay": 1241,
     "timeWeek": 962,
-    "timeMonth": 1001,
+    "timeMonth": 1004,
     "timeYear": 962,
     "dailyMinutesDown": {}
   },
@@ -205,7 +205,7 @@
     "time": 1283,
     "timeDay": 1696,
     "timeWeek": 1445,
-    "timeMonth": 1451,
+    "timeMonth": 1470,
     "timeYear": 1303,
     "dailyMinutesDown": {}
   },
@@ -223,7 +223,7 @@
     "time": 909,
     "timeDay": 1230,
     "timeWeek": 1038,
-    "timeMonth": 1035,
+    "timeMonth": 1038,
     "timeYear": 907,
     "dailyMinutesDown": {}
   },
@@ -241,7 +241,7 @@
     "time": 1266,
     "timeDay": 1707,
     "timeWeek": 1537,
-    "timeMonth": 1670,
+    "timeMonth": 1671,
     "timeYear": 1269,
     "dailyMinutesDown": {}
   },
@@ -980,8 +980,7 @@
     "dailyMinutesDown": {
       "2023-06-07": 93,
       "2023-04-28": 36,
-      "2023-04-02": 6,
-      "2023-03-24": 73
+      "2023-04-02": 6
     }
   },
   {
@@ -1920,9 +1919,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 美股盘前盘后行情说明",
@@ -1940,9 +1937,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 资金流向数据说明",
@@ -1960,9 +1955,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 订单有效期说明",
@@ -1980,9 +1973,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 总资产字段说明",
@@ -2000,9 +1991,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 免责声明",
@@ -2020,9 +2009,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 长桥服务协议",
@@ -2040,9 +2027,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 社区协议",
@@ -2060,9 +2045,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 行情使用免责声明",
@@ -2080,9 +2063,7 @@
     "timeWeek": 567,
     "timeMonth": 566,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-03-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 第三方 SDK 共享信息情况说明",
@@ -2231,8 +2212,7 @@
     "timeYear": 436,
     "dailyMinutesDown": {
       "2023-06-07": 93,
-      "2023-04-28": 36,
-      "2023-03-24": 71
+      "2023-04-28": 36
     }
   },
   {
