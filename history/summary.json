@@ -1918,9 +1918,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 美股盘前盘后行情说明",
@@ -1938,9 +1936,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 资金流向数据说明",
@@ -1958,9 +1954,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 订单有效期说明",
@@ -1978,9 +1972,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 总资产字段说明",
@@ -1998,9 +1990,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 免责声明",
@@ -2018,9 +2008,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 长桥服务协议",
@@ -2038,9 +2026,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 社区协议",
@@ -2058,9 +2044,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 行情使用免责声明",
@@ -2078,9 +2062,7 @@
     "timeWeek": 582,
     "timeMonth": 560,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2024-03-25": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help - 第三方 SDK 共享信息情况说明",
@@ -2162,7 +2144,7 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.45%",
+    "uptimeWeek": "99.47%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 2962,
