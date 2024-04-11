@@ -13,6 +13,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 sites:
+  - name: longbridge.cn
+    url: https://longbridge.cn
   - name: Longbridge Web (longbridgeapp.com)
     url: https://longbridgeapp.com
     headers:
