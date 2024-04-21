@@ -307,8 +307,8 @@ sites:
     url: https://support.longbridgehk.com/topics/misc/3isdzoe
   - name: Help - 长桥服务协议
     url: https://support.longbridgehk.com/topics/us-trade/user-agreement
-  - name: Help - 社区协议
-    url: https://support.longbridgeapp.com/topics/misc/cr7cva
+  # - name: Help - 社区协议 
+    # url: https://support.longbridgeapp.com/topics/misc/cr7cva
   - name: Help - 行情使用免责声明
     url: https://support.longbridgeapp.com/topics/misc/market-data-disclaimer?
   - name: Help - 第三方 SDK 共享信息情况说明
