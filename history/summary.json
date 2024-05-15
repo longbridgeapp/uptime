@@ -31,7 +31,7 @@
     "time": 3595,
     "timeDay": 5105,
     "timeWeek": 5033,
-    "timeMonth": 4996,
+    "timeMonth": 4998,
     "timeYear": 3648,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1457,
     "timeDay": 3919,
     "timeWeek": 3795,
-    "timeMonth": 3281,
+    "timeMonth": 3285,
     "timeYear": 1595,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 4807,
     "timeDay": 2816,
     "timeWeek": 4167,
-    "timeMonth": 4102,
+    "timeMonth": 4114,
     "timeYear": 4974,
     "dailyMinutesDown": {
       "2024-04-29": 99,
@@ -80,20 +80,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "via-longbridgeapp-com",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.59%",
+    "uptimeDay": "92.49%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.96%",
     "time": 4287,
     "timeDay": 4669,
     "timeWeek": 5899,
-    "timeMonth": 5516,
+    "timeMonth": 5514,
     "timeYear": 4320,
     "dailyMinutesDown": {
-      "2024-05-14": 4,
-      "2023-06-07": 93,
-      "2023-05-16": 16
+      "2024-05-15": 56,
+      "2024-05-14": 52,
+      "2023-06-07": 93
     }
   },
   {
@@ -110,7 +110,7 @@
     "time": 1320,
     "timeDay": 1645,
     "timeWeek": 1572,
-    "timeMonth": 1648,
+    "timeMonth": 1646,
     "timeYear": 1336,
     "dailyMinutesDown": {}
   },
@@ -128,7 +128,7 @@
     "time": 974,
     "timeDay": 691,
     "timeWeek": 954,
-    "timeMonth": 1044,
+    "timeMonth": 1040,
     "timeYear": 978,
     "dailyMinutesDown": {}
   },
@@ -146,7 +146,7 @@
     "time": 1318,
     "timeDay": 1719,
     "timeWeek": 1486,
-    "timeMonth": 1547,
+    "timeMonth": 1542,
     "timeYear": 1366,
     "dailyMinutesDown": {}
   },
@@ -164,7 +164,7 @@
     "time": 933,
     "timeDay": 1256,
     "timeWeek": 1042,
-    "timeMonth": 1083,
+    "timeMonth": 1079,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -182,7 +182,7 @@
     "time": 1320,
     "timeDay": 1645,
     "timeWeek": 1572,
-    "timeMonth": 1648,
+    "timeMonth": 1646,
     "timeYear": 1336,
     "dailyMinutesDown": {}
   },
@@ -200,7 +200,7 @@
     "time": 974,
     "timeDay": 691,
     "timeWeek": 954,
-    "timeMonth": 1044,
+    "timeMonth": 1040,
     "timeYear": 978,
     "dailyMinutesDown": {}
   },
@@ -218,7 +218,7 @@
     "time": 1318,
     "timeDay": 1719,
     "timeWeek": 1486,
-    "timeMonth": 1547,
+    "timeMonth": 1542,
     "timeYear": 1366,
     "dailyMinutesDown": {}
   },
@@ -236,7 +236,7 @@
     "time": 933,
     "timeDay": 1256,
     "timeWeek": 1042,
-    "timeMonth": 1083,
+    "timeMonth": 1079,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -254,7 +254,7 @@
     "time": 1320,
     "timeDay": 1645,
     "timeWeek": 1572,
-    "timeMonth": 1648,
+    "timeMonth": 1646,
     "timeYear": 1336,
     "dailyMinutesDown": {}
   },
@@ -272,7 +272,7 @@
     "time": 974,
     "timeDay": 691,
     "timeWeek": 954,
-    "timeMonth": 1044,
+    "timeMonth": 1040,
     "timeYear": 978,
     "dailyMinutesDown": {}
   },
@@ -290,7 +290,7 @@
     "time": 933,
     "timeDay": 1256,
     "timeWeek": 1042,
-    "timeMonth": 1083,
+    "timeMonth": 1079,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -308,7 +308,7 @@
     "time": 1798,
     "timeDay": 1649,
     "timeWeek": 1562,
-    "timeMonth": 1548,
+    "timeMonth": 1552,
     "timeYear": 1543,
     "dailyMinutesDown": {}
   },
@@ -326,7 +326,7 @@
     "time": 445,
     "timeDay": 924,
     "timeWeek": 863,
-    "timeMonth": 921,
+    "timeMonth": 920,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -344,7 +344,7 @@
     "time": 396,
     "timeDay": 750,
     "timeWeek": 790,
-    "timeMonth": 790,
+    "timeMonth": 792,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -362,7 +362,7 @@
     "time": 408,
     "timeDay": 922,
     "timeWeek": 830,
-    "timeMonth": 808,
+    "timeMonth": 802,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -380,7 +380,7 @@
     "time": 632,
     "timeDay": 730,
     "timeWeek": 979,
-    "timeMonth": 1072,
+    "timeMonth": 1085,
     "timeYear": 571,
     "dailyMinutesDown": {}
   },
@@ -398,7 +398,7 @@
     "time": 632,
     "timeDay": 730,
     "timeWeek": 979,
-    "timeMonth": 1072,
+    "timeMonth": 1085,
     "timeYear": 571,
     "dailyMinutesDown": {}
   },
@@ -416,7 +416,7 @@
     "time": 2212,
     "timeDay": 2714,
     "timeWeek": 2314,
-    "timeMonth": 2392,
+    "timeMonth": 2387,
     "timeYear": 2186,
     "dailyMinutesDown": {}
   },
@@ -434,7 +434,7 @@
     "time": 2533,
     "timeDay": 2799,
     "timeWeek": 2532,
-    "timeMonth": 2640,
+    "timeMonth": 2628,
     "timeYear": 2535,
     "dailyMinutesDown": {}
   },
@@ -452,7 +452,7 @@
     "time": 2389,
     "timeDay": 2815,
     "timeWeek": 2447,
-    "timeMonth": 2585,
+    "timeMonth": 2586,
     "timeYear": 2402,
     "dailyMinutesDown": {}
   },
@@ -470,7 +470,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -490,7 +490,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -510,7 +510,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -530,7 +530,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -550,7 +550,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -570,7 +570,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -590,7 +590,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -610,7 +610,7 @@
     "time": 616,
     "timeDay": 1933,
     "timeWeek": 1795,
-    "timeMonth": 1694,
+    "timeMonth": 1687,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2023-06-07": 93
@@ -630,7 +630,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -650,7 +650,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -670,7 +670,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -690,7 +690,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -710,7 +710,7 @@
     "time": 533,
     "timeDay": 2940,
     "timeWeek": 1455,
-    "timeMonth": 1248,
+    "timeMonth": 1221,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2023-06-07": 93
@@ -730,7 +730,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -750,7 +750,7 @@
     "time": 1240,
     "timeDay": 1814,
     "timeWeek": 1787,
-    "timeMonth": 1454,
+    "timeMonth": 1441,
     "timeYear": 1013,
     "dailyMinutesDown": {}
   },
@@ -768,7 +768,7 @@
     "time": 343,
     "timeDay": 724,
     "timeWeek": 515,
-    "timeMonth": 377,
+    "timeMonth": 366,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -786,7 +786,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -806,7 +806,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -826,7 +826,7 @@
     "time": 1257,
     "timeDay": 2788,
     "timeWeek": 2111,
-    "timeMonth": 1828,
+    "timeMonth": 1798,
     "timeYear": 1343,
     "dailyMinutesDown": {
       "2024-04-02": 453,
@@ -847,7 +847,7 @@
     "time": 1155,
     "timeDay": 2635,
     "timeWeek": 1675,
-    "timeMonth": 1572,
+    "timeMonth": 1559,
     "timeYear": 1228,
     "dailyMinutesDown": {}
   },
@@ -865,7 +865,7 @@
     "time": 804,
     "timeDay": 2557,
     "timeWeek": 1845,
-    "timeMonth": 1595,
+    "timeMonth": 1583,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-06-07": 76
@@ -885,7 +885,7 @@
     "time": 944,
     "timeDay": 900,
     "timeWeek": 1281,
-    "timeMonth": 1224,
+    "timeMonth": 1218,
     "timeYear": 962,
     "dailyMinutesDown": {}
   },
@@ -903,7 +903,7 @@
     "time": 910,
     "timeDay": 1663,
     "timeWeek": 1489,
-    "timeMonth": 1367,
+    "timeMonth": 1356,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -921,7 +921,7 @@
     "time": 910,
     "timeDay": 1663,
     "timeWeek": 1489,
-    "timeMonth": 1367,
+    "timeMonth": 1356,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -961,7 +961,7 @@
     "time": 1063,
     "timeDay": 2739,
     "timeWeek": 1749,
-    "timeMonth": 1956,
+    "timeMonth": 1936,
     "timeYear": 1129,
     "dailyMinutesDown": {}
   },
@@ -979,7 +979,7 @@
     "time": 593,
     "timeDay": 1451,
     "timeWeek": 1684,
-    "timeMonth": 1487,
+    "timeMonth": 1458,
     "timeYear": 680,
     "dailyMinutesDown": {}
   },
@@ -997,7 +997,7 @@
     "time": 357,
     "timeDay": 1112,
     "timeWeek": 672,
-    "timeMonth": 552,
+    "timeMonth": 546,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -1015,7 +1015,7 @@
     "time": 542,
     "timeDay": 2580,
     "timeWeek": 1721,
-    "timeMonth": 1386,
+    "timeMonth": 1372,
     "timeYear": 616,
     "dailyMinutesDown": {}
   },
@@ -1033,7 +1033,7 @@
     "time": 509,
     "timeDay": 2515,
     "timeWeek": 1650,
-    "timeMonth": 1289,
+    "timeMonth": 1274,
     "timeYear": 576,
     "dailyMinutesDown": {}
   },
@@ -1051,7 +1051,7 @@
     "time": 642,
     "timeDay": 3032,
     "timeWeek": 1664,
-    "timeMonth": 1356,
+    "timeMonth": 1337,
     "timeYear": 709,
     "dailyMinutesDown": {}
   },
@@ -1069,7 +1069,7 @@
     "time": 922,
     "timeDay": 1578,
     "timeWeek": 1409,
-    "timeMonth": 1320,
+    "timeMonth": 1308,
     "timeYear": 959,
     "dailyMinutesDown": {}
   },
@@ -1087,7 +1087,7 @@
     "time": 443,
     "timeDay": 1232,
     "timeWeek": 767,
-    "timeMonth": 903,
+    "timeMonth": 900,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -1105,7 +1105,7 @@
     "time": 180,
     "timeDay": 1376,
     "timeWeek": 462,
-    "timeMonth": 457,
+    "timeMonth": 426,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -1123,7 +1123,7 @@
     "time": 368,
     "timeDay": 945,
     "timeWeek": 584,
-    "timeMonth": 627,
+    "timeMonth": 629,
     "timeYear": 486,
     "dailyMinutesDown": {}
   },
@@ -1141,7 +1141,7 @@
     "time": 94,
     "timeDay": 588,
     "timeWeek": 161,
-    "timeMonth": 184,
+    "timeMonth": 172,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -1159,7 +1159,7 @@
     "time": 315,
     "timeDay": 703,
     "timeWeek": 392,
-    "timeMonth": 488,
+    "timeMonth": 485,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -1177,7 +1177,7 @@
     "time": 87,
     "timeDay": 787,
     "timeWeek": 169,
-    "timeMonth": 164,
+    "timeMonth": 152,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -1195,7 +1195,7 @@
     "time": 372,
     "timeDay": 436,
     "timeWeek": 406,
-    "timeMonth": 498,
+    "timeMonth": 496,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -1213,7 +1213,7 @@
     "time": 372,
     "timeDay": 436,
     "timeWeek": 406,
-    "timeMonth": 498,
+    "timeMonth": 496,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -1231,7 +1231,7 @@
     "time": 372,
     "timeDay": 436,
     "timeWeek": 406,
-    "timeMonth": 498,
+    "timeMonth": 496,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -1249,7 +1249,7 @@
     "time": 372,
     "timeDay": 436,
     "timeWeek": 406,
-    "timeMonth": 498,
+    "timeMonth": 496,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -1267,7 +1267,7 @@
     "time": 2259,
     "timeDay": 1327,
     "timeWeek": 1628,
-    "timeMonth": 1620,
+    "timeMonth": 1611,
     "timeYear": 2064,
     "dailyMinutesDown": {}
   },
@@ -1285,7 +1285,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1303,7 +1303,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1321,7 +1321,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1339,7 +1339,7 @@
     "time": 945,
     "timeDay": 1207,
     "timeWeek": 1054,
-    "timeMonth": 1070,
+    "timeMonth": 1073,
     "timeYear": 973,
     "dailyMinutesDown": {}
   },
@@ -1357,7 +1357,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1375,7 +1375,7 @@
     "time": 945,
     "timeDay": 1207,
     "timeWeek": 1054,
-    "timeMonth": 1070,
+    "timeMonth": 1073,
     "timeYear": 973,
     "dailyMinutesDown": {}
   },
@@ -1393,7 +1393,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1411,7 +1411,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1429,7 +1429,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1447,7 +1447,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1465,7 +1465,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1483,7 +1483,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1501,7 +1501,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1519,7 +1519,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1537,7 +1537,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1555,7 +1555,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1573,7 +1573,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1591,7 +1591,7 @@
     "time": 325,
     "timeDay": 696,
     "timeWeek": 432,
-    "timeMonth": 446,
+    "timeMonth": 444,
     "timeYear": 391,
     "dailyMinutesDown": {}
   },
@@ -1609,7 +1609,7 @@
     "time": 325,
     "timeDay": 696,
     "timeWeek": 432,
-    "timeMonth": 446,
+    "timeMonth": 444,
     "timeYear": 391,
     "dailyMinutesDown": {}
   },
@@ -1627,7 +1627,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1645,7 +1645,7 @@
     "time": 1018,
     "timeDay": 952,
     "timeWeek": 1315,
-    "timeMonth": 1320,
+    "timeMonth": 1333,
     "timeYear": 1062,
     "dailyMinutesDown": {}
   },
@@ -1663,7 +1663,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1681,7 +1681,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1699,7 +1699,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1717,7 +1717,7 @@
     "time": 1569,
     "timeDay": 1723,
     "timeWeek": 1033,
-    "timeMonth": 1130,
+    "timeMonth": 1098,
     "timeYear": 1384,
     "dailyMinutesDown": {}
   },
@@ -1735,7 +1735,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1753,7 +1753,7 @@
     "time": 668,
     "timeDay": 679,
     "timeWeek": 567,
-    "timeMonth": 580,
+    "timeMonth": 578,
     "timeYear": 663,
     "dailyMinutesDown": {}
   },
@@ -1771,7 +1771,7 @@
     "time": 2002,
     "timeDay": 2874,
     "timeWeek": 2116,
-    "timeMonth": 2155,
+    "timeMonth": 2147,
     "timeYear": 2040,
     "dailyMinutesDown": {}
   },
@@ -1789,7 +1789,7 @@
     "time": 1022,
     "timeDay": 1293,
     "timeWeek": 1113,
-    "timeMonth": 1126,
+    "timeMonth": 1124,
     "timeYear": 1026,
     "dailyMinutesDown": {}
   },
@@ -1807,7 +1807,7 @@
     "time": 514,
     "timeDay": 695,
     "timeWeek": 489,
-    "timeMonth": 678,
+    "timeMonth": 681,
     "timeYear": 656,
     "dailyMinutesDown": {}
   },
@@ -1825,7 +1825,7 @@
     "time": 1322,
     "timeDay": 997,
     "timeWeek": 1018,
-    "timeMonth": 1006,
+    "timeMonth": 1007,
     "timeYear": 1282,
     "dailyMinutesDown": {}
   },
@@ -1843,7 +1843,7 @@
     "time": 1457,
     "timeDay": 1319,
     "timeWeek": 1265,
-    "timeMonth": 1277,
+    "timeMonth": 1274,
     "timeYear": 1422,
     "dailyMinutesDown": {}
   },
@@ -1861,7 +1861,7 @@
     "time": 622,
     "timeDay": 452,
     "timeWeek": 481,
-    "timeMonth": 483,
+    "timeMonth": 482,
     "timeYear": 603,
     "dailyMinutesDown": {}
   },
@@ -1879,7 +1879,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -1897,7 +1897,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -1915,7 +1915,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -1933,7 +1933,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -1951,7 +1951,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -1969,7 +1969,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -1987,7 +1987,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -2005,7 +2005,7 @@
     "time": 708,
     "timeDay": 557,
     "timeWeek": 531,
-    "timeMonth": 555,
+    "timeMonth": 554,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -2023,7 +2023,7 @@
     "time": 1285,
     "timeDay": 1311,
     "timeWeek": 1236,
-    "timeMonth": 1270,
+    "timeMonth": 1264,
     "timeYear": 1263,
     "dailyMinutesDown": {}
   },
@@ -2041,7 +2041,7 @@
     "time": 1368,
     "timeDay": 1994,
     "timeWeek": 1655,
-    "timeMonth": 1940,
+    "timeMonth": 1926,
     "timeYear": 1439,
     "dailyMinutesDown": {}
   },
@@ -2059,7 +2059,7 @@
     "time": 526,
     "timeDay": 2070,
     "timeWeek": 1548,
-    "timeMonth": 1606,
+    "timeMonth": 1588,
     "timeYear": 598,
     "dailyMinutesDown": {}
   },
@@ -2095,7 +2095,7 @@
     "time": 2985,
     "timeDay": 2920,
     "timeWeek": 2647,
-    "timeMonth": 2618,
+    "timeMonth": 2611,
     "timeYear": 3188,
     "dailyMinutesDown": {
       "2024-03-19": 116,
@@ -2116,7 +2116,7 @@
     "time": 280,
     "timeDay": 743,
     "timeWeek": 609,
-    "timeMonth": 653,
+    "timeMonth": 645,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -2134,7 +2134,7 @@
     "time": 281,
     "timeDay": 927,
     "timeWeek": 812,
-    "timeMonth": 786,
+    "timeMonth": 779,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -2152,7 +2152,7 @@
     "time": 503,
     "timeDay": 1706,
     "timeWeek": 1290,
-    "timeMonth": 1336,
+    "timeMonth": 1318,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-04-02": 454,
@@ -2174,7 +2174,7 @@
     "time": 501,
     "timeDay": 1621,
     "timeWeek": 1400,
-    "timeMonth": 1428,
+    "timeMonth": 1415,
     "timeYear": 571,
     "dailyMinutesDown": {}
   }
