@@ -11,7 +11,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+workflowSchedule:
+  uptime: "*/5 * * * *"
 sites:
   - name: longbridge.cn
     url: https://longbridge.cn
@@ -91,6 +92,8 @@ sites:
     url: https://activity.lbkrs.com/m/download
   - name: H5 - Portal App Download
     url: https://m.lbkrs.com/app/download
+  - name: H5 - Portal App Download - lbctrl
+    url: https://m.lbctrl.com/app/download
   - name: H5 - 下载页 (重定向到 longbridge.hk/zh-CN/download)
     url: https://activity.longbridgehk.com/m/download
 
@@ -265,10 +268,16 @@ sites:
   # Portal Page (以下的是 App 内在用的)
   - name: H5 - 资讯阅读页面
     url: https://m.lbkrs.com/news/post/76049490
+  - name: H5 - 资讯阅读页面 - lbctrl
+    url: https://m.lbctrl.com/news/post/76049490
   - name: H5 - 资讯阅读页面 - PDF
     url: https://m.lbkrs.com/news/post/76049490/dr-pdf
+  - name: H5 - 资讯阅读页面 - PDF - lbctrl
+    url: https://m.lbctrl.com/news/post/76049490/dr-pdf
   - name: H5 - 社区长文
     url: https://m.lbkrs.com/social/1888673
+  - name: H5 - 社区长文 - lbctrl
+    url: https://m.lbctrl.com/social/1888673
   - name: H5 - 个股季报
     url: https://activity.lbkrs.com/zh-CN/lightning/financial-report?counterId=ST%2FUS%2FBABA&need_login=0&lblang=zh-CN&lbtheme=dark&lbapp=1
   - name: H5 - 产业链
@@ -277,10 +286,16 @@ sites:
     url: https://longbridgeapp.com/leo
   - name: H5 - 获取服务端时间
     url: https://m.lbkrs.com/api/_ping
+  - name: H5 - 获取服务端时间 - lbctrl
+    url: https://m.lbctrl.com/api/_ping
   - name: H5 - 超链接白名单跳转 (Block)
     url: https://m.lbkrs.com/link?url=https://foobar.com
+  - name: H5 - 超链接白名单跳转 (Block) -- lbctrl
+    url: https://m.lbctrl.com/link?url=https://foobar.com
   - name: H5 - 超链接白名单跳转 (Pass)
     url: https://m.lbkrs.com/link?url=https://longbridge.hk
+  - name: H5 - 超链接白名单跳转 (Pass) - lbctrl
+    url: https://m.lbctrl.com/link?url=https://longbridge.hk
   - name: H5 - 学院课程
     url: https://longportapp.com/community/course/56
   - name: H5 - Longbridge Pro - What's New
