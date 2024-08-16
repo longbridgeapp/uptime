@@ -438,6 +438,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "H5 - Portal App Download - lbctrl",
+    "url": "https://m.lbctrl.com/app/download",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-portal-app-download-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "H5 - 下载页 (重定向到 longbridge.hk/zh-CN/download)",
     "url": "https://activity.longbridgehk.com/m/download",
     "icon": "https://icons.duckduckgo.com/ip3/activity.longbridgehk.com.ico",
@@ -1614,6 +1632,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "H5 - 资讯阅读页面 - lbctrl",
+    "url": "https://m.lbctrl.com/news/post/76049490",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "H5 - 资讯阅读页面 - PDF",
     "url": "https://m.lbkrs.com/news/post/76049490/dr-pdf",
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
@@ -1632,6 +1668,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "H5 - 资讯阅读页面 - PDF - lbctrl",
+    "url": "https://m.lbctrl.com/news/post/76049490/dr-pdf",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-pdf-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "H5 - 社区长文",
     "url": "https://m.lbkrs.com/social/1888673",
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
@@ -1647,6 +1701,24 @@
     "timeWeek": 1036,
     "timeMonth": 1005,
     "timeYear": 1061,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "H5 - 社区长文 - lbctrl",
+    "url": "https://m.lbctrl.com/social/1888673",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
@@ -1722,6 +1794,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "H5 - 获取服务端时间 - lbctrl",
+    "url": "https://m.lbctrl.com/api/_ping",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "H5 - 超链接白名单跳转 (Block)",
     "url": "https://m.lbkrs.com/link?url=https://foobar.com",
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
@@ -1740,6 +1830,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "H5 - 超链接白名单跳转 (Block) -- lbctrl",
+    "url": "https://m.lbctrl.com/link?url=https://foobar.com",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-block-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "H5 - 超链接白名单跳转 (Pass)",
     "url": "https://m.lbkrs.com/link?url=https://longbridge.hk",
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
@@ -1755,6 +1863,24 @@
     "timeWeek": 3171,
     "timeMonth": 2882,
     "timeYear": 2170,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "H5 - 超链接白名单跳转 (Pass) - lbctrl",
+    "url": "https://m.lbctrl.com/link?url=https://longbridge.hk",
+    "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
+    "slug": "h5-pass-lbctrl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
