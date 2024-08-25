@@ -914,18 +914,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "long-port-feed-topic",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.90%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.88%",
     "time": 1690,
     "timeDay": 1088,
     "timeWeek": 1765,
     "timeMonth": 1920,
     "timeYear": 1753,
     "dailyMinutesDown": {
-      "2024-08-24": 5,
+      "2024-08-25": 71,
+      "2024-08-24": 49,
       "2024-04-02": 452,
       "2024-04-01": 49
     }
@@ -990,18 +991,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-sitemap-topic-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.98%",
     "time": 735,
     "timeDay": 656,
     "timeWeek": 1210,
     "timeMonth": 1200,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-08-24": 5
+      "2024-08-25": 71,
+      "2024-08-24": 49
     }
   },
   {
