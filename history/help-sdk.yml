@@ -1,7 +1,7 @@
 url: https://support.longbridgeapp.com/topics/misc/sdk
-status: up
-code: 200
-responseTime: 2020
-lastUpdated: 2024-09-05T23:13:56.778Z
+status: down
+code: 500
+responseTime: 1029
+lastUpdated: 2024-09-06T23:14:05.823Z
 startTime: 2022-12-21T11:07:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
