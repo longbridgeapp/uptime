@@ -102,7 +102,7 @@
     "slug": "index",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,9 +111,7 @@
     "timeWeek": 2601,
     "timeMonth": 2359,
     "timeYear": 1580,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（香港）- zh-CN",
@@ -122,7 +120,7 @@
     "slug": "zh-cn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,9 +129,7 @@
     "timeWeek": 1549,
     "timeMonth": 1527,
     "timeYear": 1086,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（香港）- zh-HK",
@@ -141,18 +137,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridge.hk.ico",
     "slug": "zh-hk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 1513,
     "timeDay": 1777,
     "timeWeek": 2353,
     "timeMonth": 2203,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2024-09-14": 3
+      "2024-09-15": 73,
+      "2024-09-14": 51
     }
   },
   {
@@ -162,7 +159,7 @@
     "slug": "en",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,9 +168,7 @@
     "timeWeek": 2312,
     "timeMonth": 2079,
     "timeYear": 1156,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（新加坡）- index",
@@ -182,7 +177,7 @@
     "slug": "index",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,9 +186,7 @@
     "timeWeek": 2601,
     "timeMonth": 2359,
     "timeYear": 1580,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（新加坡）- zh-CN",
@@ -202,7 +195,7 @@
     "slug": "zh-cn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -211,9 +204,7 @@
     "timeWeek": 1549,
     "timeMonth": 1527,
     "timeYear": 1086,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（新加坡）- zh-HK",
@@ -221,18 +212,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridge.sg.ico",
     "slug": "zh-hk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 1513,
     "timeDay": 1777,
     "timeWeek": 2353,
     "timeMonth": 2203,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2024-09-14": 3
+      "2024-09-15": 73,
+      "2024-09-14": 51
     }
   },
   {
@@ -242,7 +234,7 @@
     "slug": "en",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,9 +243,7 @@
     "timeWeek": 2312,
     "timeMonth": 2079,
     "timeYear": 1156,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（新西兰）- index",
@@ -262,7 +252,7 @@
     "slug": "index",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -271,9 +261,7 @@
     "timeWeek": 2601,
     "timeMonth": 2359,
     "timeYear": 1580,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（新西兰）- zh-CN",
@@ -282,7 +270,7 @@
     "slug": "zh-cn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -291,9 +279,7 @@
     "timeWeek": 1549,
     "timeMonth": 1527,
     "timeYear": 1086,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "長橋證券（新西兰）- en",
@@ -302,7 +288,7 @@
     "slug": "en",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -311,9 +297,7 @@
     "timeWeek": 2312,
     "timeMonth": 2079,
     "timeYear": 1156,
-    "dailyMinutesDown": {
-      "2024-09-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Download - Longbridge App (Legacy)",
