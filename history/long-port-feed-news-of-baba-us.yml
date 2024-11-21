@@ -1,7 +1,7 @@
 url: https://longbridgeapp.com/quote/BABA.US/news/feed
-status: down
-code: 502
-responseTime: 3208
-lastUpdated: 2024-11-20T23:11:40.957Z
+status: up
+code: 200
+responseTime: 2208
+lastUpdated: 2024-11-21T23:12:26.805Z
 startTime: 2022-12-21T09:56:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
