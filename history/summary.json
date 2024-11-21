@@ -1002,18 +1002,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridgeapp.com.ico",
     "slug": "long-port-feed-news-of-baba-us",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 1390,
     "timeDay": 3208,
     "timeWeek": 2133,
     "timeMonth": 1899,
     "timeYear": 1526,
     "dailyMinutesDown": {
-      "2024-11-20": 8
+      "2024-11-21": 76,
+      "2024-11-20": 48
     }
   },
   {
@@ -1079,18 +1080,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.com.ico",
     "slug": "long-port-sitemap-stock-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 806,
     "timeDay": 448,
     "timeWeek": 1282,
     "timeMonth": 1266,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2024-11-20": 8
+      "2024-11-21": 76,
+      "2024-11-20": 48
     }
   },
   {
